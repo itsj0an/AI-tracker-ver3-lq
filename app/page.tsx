@@ -7,7 +7,7 @@ import { FilterBar } from "@/components/filter-bar"
 import { NewsFeed } from "@/components/news-feed"
 import { TrendPanel } from "@/components/trend-panel"
 import { Footer } from "@/components/footer"
-import { mockStats, mockTrends } from "@/lib/mock-data"
+import { mockTrends } from "@/lib/mock-data"
 import { normalizeRecord, sortByDateDesc } from "@/lib/normalize"
 import { AINewsItem, StatsData } from "@/lib/types"
 import { AlertCircle } from "lucide-react"
@@ -23,8 +23,6 @@ export default function Home() {
 
   // 计算统计数据
   const stats = useMemo<StatsData>(() => {
-    if (newsItems.length === 0) return mockStats
-    
     const now = new Date()
     const oneWeekAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000)
     
