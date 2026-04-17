@@ -45,41 +45,27 @@ export default function Home() {
     }
   }, [newsItems])
 
-  // 尝试解析并验证 JSON 数据，提取数组
-  const parseAndValidateData = (data: unknown, sourceName: string): Record<string, unknown>[] | null => {
-    console.log(`[v0] ${sourceName} 原始数据类型:`, typeof data, Array.isArray(data) ? "是数组" : "非数组")
-    
-    let records: Record<string, unknown>[] = []
-    
-    // 如果直接是数组
-    if (Array.isArray(data)) {
-      records = data
-    } else if (data && typeof data === "object") {
-      const obj = data as Record<string, unknown>
-      // 尝试从常见字段提取数组：data, items, records
+  // 统一数据适配函数：从 payload 中提取记录数组
+  function extractRecords(payload: unknown): Record<string, unknown>[] {
+    // 1. 如果 payload 是数组，直接返回
+    if (Array.isArray(payload)) {
+      return payload
+    }
+    // 2-4. 如果是对象，尝试从 data / items / records 字段提取
+    if (payload && typeof payload === "object") {
+      const obj = payload as Record<string, unknown>
       if (Array.isArray(obj.data)) {
-        records = obj.data
-        console.log(`[v0] ${sourceName} 从 data 字段提取数组`)
-      } else if (Array.isArray(obj.items)) {
-        records = obj.items
-        console.log(`[v0] ${sourceName} 从 items 字段提取数组`)
-      } else if (Array.isArray(obj.records)) {
-        records = obj.records
-        console.log(`[v0] ${sourceName} 从 records 字段提取数组`)
-      } else {
-        // 无法找到数组，返回 null
-        console.log(`[v0] ${sourceName} 无法从对象中提取数组`)
-        return null
+        return obj.data
+      }
+      if (Array.isArray(obj.items)) {
+        return obj.items
+      }
+      if (Array.isArray(obj.records)) {
+        return obj.records
       }
     }
-    
-    console.log(`[v0] ${sourceName} 标准化后 records.length:`, records.length)
-    
-    // 验证数据不为空
-    if (records.length === 0) {
-      return null
-    }
-    return records
+    // 5. 否则返回空数组
+    return []
   }
 
   // 加载数据 - 双数据源模式
@@ -92,37 +78,33 @@ export default function Home() {
       // 优先尝试 /updates.json
       try {
         const response = await fetch("/updates.json")
-        console.log("[v0] /updates.json 响应状态:", response.status)
         if (response.ok) {
-          const data = await response.json()
-          const records = parseAndValidateData(data, "/updates.json")
-          if (records && records.length > 0) {
+          const payload = await response.json()
+          const records = extractRecords(payload)
+          if (records.length > 0) {
             const normalizedItems = records.map((record, index) => 
               normalizeRecord(record, index)
             )
             const sortedItems = sortByDateDesc(normalizedItems)
-            console.log("[v0] /updates.json 最终用于渲染的 newsItems.length:", sortedItems.length)
             setNewsItems(sortedItems)
             setDataSource("auto")
             setLoading(false)
             return
           }
         }
-      } catch (err) {
-        console.log("[v0] /updates.json 加载失败:", err)
+      } catch {
         // 主数据源失败，继续尝试备用数据源
       }
 
       // 回退到 /tencent_ai_renamed.json
       try {
         const response = await fetch("/tencent_ai_renamed.json")
-        console.log("[v0] /tencent_ai_renamed.json 响应状态:", response.status)
         if (!response.ok) {
           throw new Error("备用数据源加载失败")
         }
-        const data = await response.json()
-        const records = parseAndValidateData(data, "/tencent_ai_renamed.json")
-        if (!records || records.length === 0) {
+        const payload = await response.json()
+        const records = extractRecords(payload)
+        if (records.length === 0) {
           setError("数据结构异常，无法解析为动态列表")
           return
         }
@@ -130,11 +112,9 @@ export default function Home() {
           normalizeRecord(record, index)
         )
         const sortedItems = sortByDateDesc(normalizedItems)
-        console.log("[v0] /tencent_ai_renamed.json 最终用于渲染的 newsItems.length:", sortedItems.length)
         setNewsItems(sortedItems)
         setDataSource("fallback")
-      } catch (err) {
-        console.log("[v0] /tencent_ai_renamed.json 加载失败:", err)
+      } catch {
         setError("数据加载失败，请稍后重试。")
       } finally {
         setLoading(false)
@@ -166,7 +146,6 @@ export default function Home() {
       }
       return true
     })
-    console.log("[v0] 当前用于列表渲染的 filteredItems.length:", result.length)
     return result
   }, [newsItems, selectedRegion, selectedType, searchQuery])
 
