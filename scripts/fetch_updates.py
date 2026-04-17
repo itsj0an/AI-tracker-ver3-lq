@@ -1,4 +1,4 @@
-import json
+ import json
 import re
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
@@ -220,6 +220,119 @@ def fetch_anthropic():
         print("Anthropic fetch failed:", e)
         return []
 
+def fetch_mistral():
+    url = "https://mistral.ai/news"
+    headers = {"User-Agent": "Mozilla/5.0"}
+    items = []
+
+    try:
+        resp = requests.get(url, headers=headers, timeout=20)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, "html.parser")
+
+        seen = set()
+        for a in soup.find_all("a", href=True):
+            href = a.get("href", "")
+            title = clean_text(a.get_text(" ", strip=True))
+
+            if not href:
+                continue
+            if "/news/" not in href and "mistral.ai/news" not in href:
+                continue
+
+            full_url = href if href.startswith("http") else f"https://mistral.ai{href}"
+            if full_url in seen:
+                continue
+            seen.add(full_url)
+
+            if len(title) < 8:
+                continue
+
+            summary = "Mistral 发布模型、产品或公司相关动态。"
+            tracking_value = "适合补充观察欧洲/海外模型公司的产品推进、开源策略和企业化方向。"
+            type_ = infer_type(title, summary)
+
+            tags = ["Mistral", "海外AI"]
+            if type_ == "模型升级":
+                tags.append("模型升级")
+
+            items.append(
+                make_record(
+                    title=title,
+                    publisher="Mistral",
+                    date="",
+                    region="海外",
+                    type_=type_,
+                    source="Mistral News",
+                    source_type="官方",
+                    summary=summary,
+                    tracking_value=tracking_value,
+                    url=full_url,
+                    tags=tags,
+                )
+            )
+
+        return items[:12]
+    except Exception as e:
+        print("Mistral fetch failed:", e)
+        return []
+
+def fetch_meta_ai():
+    url = "https://ai.meta.com/blog/"
+    headers = {"User-Agent": "Mozilla/5.0"}
+    items = []
+
+    try:
+        resp = requests.get(url, headers=headers, timeout=20)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, "html.parser")
+
+        seen = set()
+        for a in soup.find_all("a", href=True):
+            href = a.get("href", "")
+            title = clean_text(a.get_text(" ", strip=True))
+
+            if not href:
+                continue
+            if "/blog/" not in href and "ai.meta.com/blog/" not in href:
+                continue
+
+            full_url = href if href.startswith("http") else f"https://ai.meta.com{href}"
+            if full_url in seen:
+                continue
+            seen.add(full_url)
+
+            if len(title) < 8:
+                continue
+
+            summary = "Meta 发布 AI 模型、研究或产品能力相关动态。"
+            tracking_value = "适合补充观察大厂在开源模型、多模态能力与 AI 应用方向上的推进。"
+            type_ = infer_type(title, summary)
+
+            tags = ["Meta", "AI"]
+            if type_ == "模型升级":
+                tags.append("模型升级")
+
+            items.append(
+                make_record(
+                    title=title,
+                    publisher="Meta",
+                    date="",
+                    region="海外",
+                    type_=type_,
+                    source="Meta AI Blog",
+                    source_type="官方",
+                    summary=summary,
+                    tracking_value=tracking_value,
+                    url=full_url,
+                    tags=tags,
+                )
+            )
+
+        return items[:12]
+    except Exception as e:
+        print("Meta AI fetch failed:", e)
+        return []
 
 def fetch_google_blog():
     rss_url = "https://blog.google/rss/"
