@@ -153,7 +153,7 @@ def fetch_openai():
                 )
             )
 
-        return items[:12]
+        return items[:30]
     except Exception as e:
         print("OpenAI fetch failed:", e)
         return []
@@ -215,7 +215,7 @@ def fetch_anthropic():
                 )
             )
 
-        return items[:12]
+        return items[:30]
     except Exception as e:
         print("Anthropic fetch failed:", e)
         return []
@@ -270,7 +270,7 @@ def fetch_google_blog():
                 )
             )
 
-        return items[:12]
+        return items[:30]
     except Exception as e:
         print("Google Blog fetch failed:", e)
         return []
