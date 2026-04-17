@@ -53,7 +53,7 @@ export function normalizeRecord(record: Record<string, unknown>, index: number):
   
   // 规范化类型
   const typeRaw = safeString(record["类型"], "") || safeString(record["type"], "")
-  const validTypes = ["产品发布", "功能更新", "技术突破", "战略合作", "融资动态", "政策法规", "企业方案", "开源项目", "研究动态"]
+  const validTypes = ["产品发布", "功能更新", "技术突破", "战略合作", "融资动态", "政策法规", "企业方案", "开源项目", "研究动态", "模型升级", "开发者工具", "融资合作"]
   const type = validTypes.includes(typeRaw) ? typeRaw as AINewsItem["type"] : "功能更新"
   
   // 规范化来源类型
