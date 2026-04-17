@@ -49,18 +49,24 @@ export function normalizeRecord(record: Record<string, unknown>, index: number):
     ? sourceTypeRaw as AINewsItem["sourceType"] 
     : "媒体报道"
 
+  // 兼容日期字段：日期 / 发布日期
+  const date = String(record["日期"] ?? record["发布日期"] ?? "")
+  
+  // 兼容追踪价值字段：追踪价值总结 / 追踪价值
+  const trackingValue = String(record["追踪价值总结"] ?? record["追踪价值"] ?? "")
+
   return {
-    id: String(record["id"] ?? `item-${index}`),
+    id: String(record["id"] ?? record["col_1"] ?? `item-${index}`),
     title: String(record["标题"] ?? "无标题"),
     publisher,
-    date: String(record["日期"] ?? ""),
+    date,
     region,
     type,
     source: String(record["来源"] ?? ""),
     sourceType,
     summary,
     tags,
-    trackingValue: String(record["追踪价值总结"] ?? ""),
+    trackingValue,
     originalUrl,
   }
 }
