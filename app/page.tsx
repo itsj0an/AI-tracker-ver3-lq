@@ -15,6 +15,7 @@ import { AlertCircle } from "lucide-react"
 export default function Home() {
   const [selectedRegion, setSelectedRegion] = useState("全部")
   const [selectedType, setSelectedType] = useState("全部")
+  const [selectedTimeRange, setSelectedTimeRange] = useState("全部")
   const [searchQuery, setSearchQuery] = useState("")
   
   const [newsItems, setNewsItems] = useState<AINewsItem[]>([])
@@ -22,28 +23,7 @@ export default function Home() {
   const [error, setError] = useState<string | null>(null)
   const [dataSource, setDataSource] = useState<"auto" | "fallback" | null>(null)
 
-  // 计算统计数据
-  const stats = useMemo<StatsData>(() => {
-    const now = new Date()
-    const oneWeekAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000)
-    
-    const weeklyNews = newsItems.filter(item => {
-      const itemDate = new Date(item.date)
-      return itemDate >= oneWeekAgo
-    }).length
-    
-    const overseasCount = newsItems.filter(item => item.region === "海外").length
-    const overseasRatio = newsItems.length > 0 ? Math.round((overseasCount / newsItems.length) * 100) : 0
-    
-    const productReleases = newsItems.filter(item => item.type === "产品发布").length
-    
-    return {
-      totalNews: newsItems.length,
-      weeklyNews,
-      overseasRatio,
-      productReleases,
-    }
-  }, [newsItems])
+
 
   // 统一数据适配函数：从 payload 中提取记录数组
   function extractRecords(payload: unknown): Record<string, unknown>[] {
@@ -124,8 +104,46 @@ export default function Home() {
     fetchData()
   }, [])
 
+  // 解析日期字符串为 Date 对象，支持 YYYY-MM-DD 格式
+  function parseDate(dateStr: string): Date | null {
+    if (!dateStr || dateStr.trim() === "") return null
+    // 尝试解析 YYYY-MM-DD 格式
+    const match = dateStr.match(/^(\d{4})-(\d{2})-(\d{2})/)
+    if (match) {
+      const [, year, month, day] = match
+      const date = new Date(Number(year), Number(month) - 1, Number(day))
+      if (!isNaN(date.getTime())) return date
+    }
+    // 尝试通用解析
+    const date = new Date(dateStr)
+    if (!isNaN(date.getTime())) return date
+    return null
+  }
+
+  // 获取时间范围对应的天数
+  function getTimeRangeDays(range: string): number | null {
+    switch (range) {
+      case "最近7天": return 7
+      case "最近30天": return 30
+      case "最近90天": return 90
+      case "最近半年": return 180
+      default: return null // "全部"
+    }
+  }
+
   const filteredItems = useMemo(() => {
+    const now = new Date()
+    const days = getTimeRangeDays(selectedTimeRange)
+    const cutoffDate = days ? new Date(now.getTime() - days * 24 * 60 * 60 * 1000) : null
+
     const result = newsItems.filter((item) => {
+      // 时间筛选
+      if (cutoffDate) {
+        const itemDate = parseDate(item.date)
+        // 如果没有合法日期，在非"全部"模式下不显示
+        if (!itemDate) return false
+        if (itemDate < cutoffDate) return false
+      }
       // 地区筛选
       if (selectedRegion !== "全部" && item.region !== selectedRegion) {
         return false
@@ -147,7 +165,30 @@ export default function Home() {
       return true
     })
     return result
-  }, [newsItems, selectedRegion, selectedType, searchQuery])
+  }, [newsItems, selectedRegion, selectedType, selectedTimeRange, searchQuery])
+
+  // 计算统计数据 - 基于筛选后的数据
+  const stats = useMemo<StatsData>(() => {
+    const now = new Date()
+    const oneWeekAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000)
+    
+    const weeklyNews = filteredItems.filter(item => {
+      const itemDate = parseDate(item.date)
+      return itemDate && itemDate >= oneWeekAgo
+    }).length
+    
+    const overseasCount = filteredItems.filter(item => item.region === "海外").length
+    const overseasRatio = filteredItems.length > 0 ? Math.round((overseasCount / filteredItems.length) * 100) : 0
+    
+    const productReleases = filteredItems.filter(item => item.type === "产品发布").length
+    
+    return {
+      totalNews: filteredItems.length,
+      weeklyNews,
+      overseasRatio,
+      productReleases,
+    }
+  }, [filteredItems])
 
   return (
     <div className="min-h-screen bg-background">
@@ -182,6 +223,8 @@ export default function Home() {
             setSelectedRegion={setSelectedRegion}
             selectedType={selectedType}
             setSelectedType={setSelectedType}
+            selectedTimeRange={selectedTimeRange}
+            setSelectedTimeRange={setSelectedTimeRange}
             searchQuery={searchQuery}
             setSearchQuery={setSearchQuery}
           />
