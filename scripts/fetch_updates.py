@@ -417,6 +417,8 @@ def main():
     records.extend(fetch_openai())
     records.extend(fetch_anthropic())
     records.extend(fetch_google_blog())
+    records.extend(fetch_mistral())
+    records.extend(fetch_meta_ai())
 
     records = deduplicate(records)
     records = sort_records(records)
