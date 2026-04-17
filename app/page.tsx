@@ -57,17 +57,22 @@ export default function Home() {
         }
         
         const data = await response.json()
+        console.log("[v0] JSON data loaded:", data)
+        console.log("[v0] Is array:", Array.isArray(data))
         
         // 确保数据是数组
         const records = Array.isArray(data) ? data : []
+        console.log("[v0] Records count:", records.length)
         
         // 规范化并排序
         const normalizedItems = records.map((record, index) => 
           normalizeRecord(record as Record<string, unknown>, index)
         )
+        console.log("[v0] Normalized items:", normalizedItems.length, normalizedItems[0])
         const sortedItems = sortByDateDesc(normalizedItems)
         
         setNewsItems(sortedItems)
+        console.log("[v0] Set newsItems:", sortedItems.length)
       } catch (err) {
         console.error("数据加载失败:", err)
         setError("数据加载失败，请检查 JSON 文件路径或格式。")
