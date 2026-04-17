@@ -65,7 +65,7 @@
     "链接": "https://github.com/Crosstalk-Solutions/project-nomad?tab=readme-ov-file",
     "地区": "海外",
     "来源类型": "论坛",
-    "摘要": "Project N.O.M.A.D. 是一个 offline-first 的知识与教育服务器，内置 AI、离线知识库、地图、教育资源等，强调「anytime, anywhere」的使用场景。",
+    "摘要": "Project N.O.M.A.D. 是一个 offline-first 的知识与教育服务器，内置 AI、离线知识库、地图、教育资源等，强调“anytime, anywhere” 的使用场景。",
     "类型": "开源项目",
     "追踪价值": "体现了 AI 与离线知识系统、本地部署、极端场景可用性结合的方向。README 明确写到它集成了本地 AI 聊天、文档上传、语义搜索，并通过Ollama、Qdrant、Kiwix、Kolibri、ProtoMaps 等组件构建离线能力。"
   },
@@ -379,7 +379,7 @@
   },
   {
     "col_1": 28,
-    "标题": "首个国产企业级满血版OpenClaw"DuMate"正式上线！",
+    "标题": "首个国产企业级满血版OpenClaw“DuMate”正式上线！",
     "公司": "百度",
     "发布日期": "2026-03-23",
     "时间": "最近7天",
