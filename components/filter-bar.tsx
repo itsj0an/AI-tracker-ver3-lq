@@ -13,7 +13,7 @@ interface FilterBarProps {
 }
 
 const regions = ["全部", "海外", "国内"]
-const types = ["全部", "产品发布", "功能更新", "技术突破", "战略合作", "融资动态", "政策法规", "企业方案", "开源项目"]
+const types = ["全部", "产品发布", "功能更新", "技术突破", "战略合作", "融资动态", "政策法规", "企业方案", "开源项目", "研究动态"]
 
 export function FilterBar({
   selectedRegion,

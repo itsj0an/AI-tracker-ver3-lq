@@ -58,8 +58,14 @@ export default function Home() {
         
         const data = await response.json()
         
-        // 确保数据是数组
-        const records = Array.isArray(data) ? data : []
+        // 确保数据是数组（支持单对象和数组两种格式）
+        let records: Record<string, unknown>[] = []
+        if (Array.isArray(data)) {
+          records = data
+        } else if (data && typeof data === "object") {
+          // 单个对象包装成数组
+          records = [data]
+        }
         
         // 规范化并排序
         const normalizedItems = records.map((record, index) => 
