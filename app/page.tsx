@@ -20,6 +20,7 @@ export default function Home() {
   const [newsItems, setNewsItems] = useState<AINewsItem[]>([])
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
+  const [dataSource, setDataSource] = useState<"auto" | "fallback" | null>(null)
 
   // 计算统计数据
   const stats = useMemo<StatsData>(() => {
@@ -44,39 +45,68 @@ export default function Home() {
     }
   }, [newsItems])
 
-  // 加载数据
+  // 尝试解析并验证 JSON 数据
+  const parseAndValidateData = (data: unknown): Record<string, unknown>[] | null => {
+    let records: Record<string, unknown>[] = []
+    if (Array.isArray(data)) {
+      records = data
+    } else if (data && typeof data === "object") {
+      records = [data as Record<string, unknown>]
+    }
+    // 验证数据不为空
+    if (records.length === 0) {
+      return null
+    }
+    return records
+  }
+
+  // 加载数据 - 双数据源模式
   useEffect(() => {
     async function fetchData() {
+      setLoading(true)
+      setError(null)
+      setDataSource(null)
+
+      // 优先尝试 /updates.json
       try {
-        setLoading(true)
-        setError(null)
-        
+        const response = await fetch("/updates.json")
+        if (response.ok) {
+          const data = await response.json()
+          const records = parseAndValidateData(data)
+          if (records && records.length > 0) {
+            const normalizedItems = records.map((record, index) => 
+              normalizeRecord(record, index)
+            )
+            const sortedItems = sortByDateDesc(normalizedItems)
+            setNewsItems(sortedItems)
+            setDataSource("auto")
+            setLoading(false)
+            return
+          }
+        }
+      } catch {
+        // 主数据源失败，继续尝试备用数据源
+      }
+
+      // 回退到 /tencent_ai_renamed.json
+      try {
         const response = await fetch("/tencent_ai_renamed.json")
         if (!response.ok) {
-          throw new Error(`HTTP error! status: ${response.status}`)
+          throw new Error("备用数据源加载失败")
         }
-        
         const data = await response.json()
-        
-        // 确保数据是数组（支持单对象和数组两种格式）
-        let records: Record<string, unknown>[] = []
-        if (Array.isArray(data)) {
-          records = data
-        } else if (data && typeof data === "object") {
-          // 单个对象包装成数组
-          records = [data]
+        const records = parseAndValidateData(data)
+        if (!records || records.length === 0) {
+          throw new Error("备用数据为空")
         }
-        
-        // 规范化并排序
         const normalizedItems = records.map((record, index) => 
-          normalizeRecord(record as Record<string, unknown>, index)
+          normalizeRecord(record, index)
         )
         const sortedItems = sortByDateDesc(normalizedItems)
-        
         setNewsItems(sortedItems)
-      } catch (err) {
-        console.error("数据加载失败:", err)
-        setError("数据加载失败，请检查 JSON 文件路径或格式。")
+        setDataSource("fallback")
+      } catch {
+        setError("数据加载失败，请稍后重试。")
       } finally {
         setLoading(false)
       }
@@ -114,6 +144,22 @@ export default function Home() {
       <Header />
       
       <main className="mx-auto max-w-7xl px-4 py-6 lg:px-8">
+        {/* 数据源状态提示 */}
+        {dataSource && (
+          <div className={`mb-4 flex items-center gap-2 rounded-md px-3 py-2 text-sm ${
+            dataSource === "auto" 
+              ? "bg-accent/20 text-accent" 
+              : "bg-muted text-muted-foreground"
+          }`}>
+            <div className={`h-2 w-2 rounded-full ${
+              dataSource === "auto" ? "bg-accent" : "bg-muted-foreground"
+            }`} />
+            {dataSource === "auto" 
+              ? "当前展示为自动更新数据" 
+              : "当前展示为备用数据源"}
+          </div>
+        )}
+
         {/* 指标卡片 */}
         <section className="mb-6">
           <StatsCards stats={stats} />
