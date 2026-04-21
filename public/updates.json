@@ -2,7 +2,7 @@
   {
     "标题": "Introducing Claude Opus 4.7 Product Apr 16, 2026 Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most.",
     "发布方": "Anthropic",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Anthropic Newsroom",
@@ -19,7 +19,7 @@
   {
     "标题": "Product Apr 17, 2026 Introducing Claude Design by Anthropic Labs Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
     "发布方": "Anthropic",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -36,7 +36,7 @@
   {
     "标题": "Announcements Feb 4, 2026 Claude is a space to think We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
     "发布方": "Anthropic",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -53,7 +53,7 @@
   {
     "标题": "Apr 14, 2026 Announcements Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
     "发布方": "Anthropic",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -70,7 +70,7 @@
   {
     "标题": "Apr 6, 2026 Announcements Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
     "发布方": "Anthropic",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "企业方案",
     "来源": "Anthropic Newsroom",
@@ -87,7 +87,7 @@
   {
     "标题": "Mar 31, 2026 Announcements Australian government and Anthropic sign MOU for AI safety and research",
     "发布方": "Anthropic",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -104,7 +104,7 @@
   {
     "标题": "Mar 12, 2026 Announcements Anthropic invests $100 million into the Claude Partner Network",
     "发布方": "Anthropic",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -121,7 +121,7 @@
   {
     "标题": "Mar 11, 2026 Announcements Introducing The Anthropic Institute",
     "发布方": "Anthropic",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -138,7 +138,7 @@
   {
     "标题": "Mar 10, 2026 Announcements Sydney will become Anthropic’s fourth office in Asia-Pacific",
     "发布方": "Anthropic",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -155,7 +155,7 @@
   {
     "标题": "Mar 6, 2026 Policy Partnering with Mozilla to improve Firefox’s security",
     "发布方": "Anthropic",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -172,7 +172,7 @@
   {
     "标题": "Mar 5, 2026 Announcements Where things stand with the Department of War",
     "发布方": "Anthropic",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -189,7 +189,7 @@
   {
     "标题": "Responsible Scaling Policy",
     "发布方": "Anthropic",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -204,9 +204,62 @@
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
   },
   {
+    "标题": "Google brings Pomelli in English to small businesses in Europe.",
+    "发布方": "Google",
+    "日期": "2026-04-21",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-labs/pomelli-in-europe/"
+  },
+  {
+    "标题": "We’re expanding Gemini in Chrome to users in Asia Pacific.",
+    "发布方": "Google",
+    "日期": "2026-04-21",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/chrome/chrome-expands-apac/"
+  },
+  {
+    "标题": "Start vibe coding in AI Studio with your Google AI subscription.",
+    "发布方": "Google",
+    "日期": "2026-04-21",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/google-one-ai-studio/"
+  },
+  {
     "标题": "A new way to explore the web with AI Mode in Chrome",
     "发布方": "Google",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -223,7 +276,7 @@
   {
     "标题": "New ways to create personalized images in the Gemini app",
     "发布方": "Google",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -239,26 +292,9 @@
     "链接": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/"
   },
   {
-    "标题": "Grow with Google's event discussed AI in the workplace with Fortune 500 company leaders.",
-    "发布方": "Google",
-    "日期": "2026-04-20",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/ai-transformation-summit/"
-  },
-  {
     "标题": "Gemini is stopping harmful ads before people ever see them",
     "发布方": "Google",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -274,9 +310,26 @@
     "链接": "https://blog.google/products/ads-commerce/2025-ads-safety-report/"
   },
   {
+    "标题": "Grow with Google's event discussed AI in the workplace with Fortune 500 company leaders.",
+    "发布方": "Google",
+    "日期": "2026-04-21",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/ai-transformation-summit/"
+  },
+  {
     "标题": "Partnering with Latin American governments on 3 new AI initiatives",
     "发布方": "Google",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -293,7 +346,7 @@
   {
     "标题": "The Gemini app is now on Mac",
     "发布方": "Google",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -311,7 +364,7 @@
   {
     "标题": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
     "发布方": "Google",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -329,7 +382,7 @@
   {
     "标题": "Prepay for the Gemini API to get more control over your spend",
     "发布方": "Google",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "开发者工具",
     "来源": "Google Blog",
@@ -347,7 +400,7 @@
   {
     "标题": "We’re upgrading Dynamic Search Ads to AI Max",
     "发布方": "Google",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -364,7 +417,7 @@
   {
     "标题": "Turn your best AI prompts into one-click tools in Chrome",
     "发布方": "Google",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -381,7 +434,7 @@
   {
     "标题": "The Google app for desktop is now available for Windows users around the world.",
     "发布方": "Google",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -396,27 +449,9 @@
     "链接": "https://blog.google/products-and-platforms/products/search/google-apps-windows-english/"
   },
   {
-    "标题": "Gemini Robotics ER-1.6 enhances reasoning to help robots navigate real-world tasks.",
-    "发布方": "Google",
-    "日期": "2026-04-20",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-1-6/"
-  },
-  {
     "标题": "The Latest",
     "发布方": "Meta",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -433,7 +468,7 @@
   {
     "标题": "FEATURED",
     "发布方": "Meta",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -450,7 +485,7 @@
   {
     "标题": "FEATURED",
     "发布方": "Meta",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -467,7 +502,7 @@
   {
     "标题": "FEATURED",
     "发布方": "Meta",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -484,7 +519,7 @@
   {
     "标题": "FEATURED",
     "发布方": "Meta",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -501,7 +536,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -518,7 +553,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -535,7 +570,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -552,7 +587,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -569,7 +604,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -586,7 +621,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -603,7 +638,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -620,7 +655,7 @@
   {
     "标题": "Speaking of Voxtral Research Voxtral TTS: A frontier, open-weights text-to-speech model that’s fast, instantly adaptable, and produces lifelike speech for voice agents. Mar 23, 2026 Mistral AI",
     "发布方": "Mistral",
-    "日期": "2026-04-20",
+    "日期": "2026-04-21",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Mistral News",
