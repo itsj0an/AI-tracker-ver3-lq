@@ -204,6 +204,42 @@
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
   },
   {
+    "标题": "You can now easily generate files in Gemini.",
+    "发布方": "Google",
+    "日期": "2026-04-29",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/products/gemini-app/generate-files-in-gemini/"
+  },
+  {
+    "标题": "Gemini launches new personalisation features in the UK",
+    "发布方": "Google",
+    "日期": "2026-04-29",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/gemini-launches-new-personalisation-features-in-the-uk/"
+  },
+  {
     "标题": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
     "发布方": "Google",
     "日期": "2026-04-29",
@@ -411,58 +447,6 @@
     "链接": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/"
   },
   {
-    "标题": "10 leading enterprises show why agents mean business",
-    "发布方": "Google",
-    "日期": "2026-04-29",
-    "地区": "海外",
-    "类型": "Agent",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Agent"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cloud-next-2026-customer-round-up/"
-  },
-  {
-    "标题": "Gemini Embedding 2 is now generally available.",
-    "发布方": "Google",
-    "日期": "2026-04-29",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2-generally-available/"
-  },
-  {
-    "标题": "1,302 real-world gen AI use cases from the world's leading organizations",
-    "发布方": "Google",
-    "日期": "2026-04-29",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gen-ai-business-use-cases/"
-  },
-  {
     "标题": "The Latest",
     "发布方": "Meta",
     "日期": "2026-04-29",
@@ -667,20 +651,20 @@
     "链接": "https://ai.meta.com/blog/sam-audio/"
   },
   {
-    "标题": "Workflows for work that runs the business Product Workflows is now in public preview. Apr 27, 2026 Mistral AI",
+    "标题": "Remote agents in Vibe. Powered by Mistral Medium 3.5. Product Introducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for complex tasks. Apr 29, 2026 Mistral AI",
     "发布方": "Mistral",
     "日期": "2026-04-29",
     "地区": "海外",
-    "类型": "产品发布",
+    "类型": "Agent",
     "来源": "Mistral News",
     "来源类型": "官方",
     "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
     "标签": [
       "Mistral",
       "海外AI",
-      "产品发布"
+      "Agent"
     ],
     "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/workflows"
+    "链接": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5"
   }
 ]
