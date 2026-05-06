@@ -51,6 +51,23 @@
     "链接": "https://www.anthropic.com/news/claude-is-a-space-to-think"
   },
   {
+    "标题": "May 6, 2026 Announcements Higher usage limits for Claude and a compute deal with SpaceX",
+    "发布方": "Anthropic",
+    "日期": "2026-05-06",
+    "地区": "海外",
+    "类型": "企业方案",
+    "来源": "Anthropic Newsroom",
+    "来源类型": "官方",
+    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "标签": [
+      "Anthropic",
+      "Claude",
+      "企业方案"
+    ],
+    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
+    "链接": "https://www.anthropic.com/news/higher-limits-spacex"
+  },
+  {
     "标题": "May 5, 2026 Announcements Agents for financial services",
     "发布方": "Anthropic",
     "日期": "2026-05-06",
@@ -170,23 +187,6 @@
     "链接": "https://www.anthropic.com/news/anthropic-amazon-compute"
   },
   {
-    "标题": "Apr 14, 2026 Announcements Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
-    "发布方": "Anthropic",
-    "日期": "2026-05-06",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Anthropic Newsroom",
-    "来源类型": "官方",
-    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
-    "标签": [
-      "Anthropic",
-      "Claude",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/narasimhan-board"
-  },
-  {
     "标题": "Responsible Scaling Policy",
     "发布方": "Anthropic",
     "日期": "2026-05-06",
@@ -202,6 +202,57 @@
     ],
     "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
+  },
+  {
+    "标题": "5 gardening tips you can try right in Search",
+    "发布方": "Google",
+    "日期": "2026-05-06",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/search/gardening-tips/"
+  },
+  {
+    "标题": "5 new ways to explore the web with generative AI in Search",
+    "发布方": "Google",
+    "日期": "2026-05-06",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/search/explore-web-generative-ai-search/"
+  },
+  {
+    "标题": "AI is reshaping ad creative. Here’s how brands can get it right.",
+    "发布方": "Google",
+    "日期": "2026-05-06",
+    "地区": "海外",
+    "类型": "开发者工具",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "开发者工具"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products/ads-commerce/ads-decoded-podcast-ai-creative/"
   },
   {
     "标题": "Gemini API File Search is now multimodal: build efficient, verifiable RAG",
@@ -376,74 +427,6 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-gemini-tips-2026/"
-  },
-  {
-    "标题": "Preferred Sources is now available in all languages.",
-    "发布方": "Google",
-    "日期": "2026-05-06",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/search/preferred-sources-language-expansion/"
-  },
-  {
-    "标题": "Adapt your Shopping campaigns to modern Search with AI Max.",
-    "发布方": "Google",
-    "日期": "2026-05-06",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products/ads-commerce/ai-max-for-shopping/"
-  },
-  {
-    "标题": "AI Max Turns 1 with new ways to steer performance and expansion to more advertisers",
-    "发布方": "Google",
-    "日期": "2026-05-06",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products/ads-commerce/ai-max-new-features/"
-  },
-  {
-    "标题": "Meet travelers in the moments that matter with Search Campaigns for Travel.",
-    "发布方": "Google",
-    "日期": "2026-05-06",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products/ads-commerce/ai-max-for-travel/"
   },
   {
     "标题": "The Latest",
