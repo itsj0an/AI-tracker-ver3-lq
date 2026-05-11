@@ -204,6 +204,58 @@
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
   },
   {
+    "标题": "Our new initiative to apply quantum science and AI to the life sciences",
+    "发布方": "Google",
+    "日期": "2026-05-11",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/repliqa-quantum-computing-life-sciences/"
+  },
+  {
+    "标题": "Digitize your paper notes with Gemini.",
+    "发布方": "Google",
+    "日期": "2026-05-11",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/products/gemini-app/digitize-notes-gemini-study-guide/"
+  },
+  {
+    "标题": "Read our new report on AI-powered threats and our latest defenses.",
+    "发布方": "Google",
+    "日期": "2026-05-11",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-threat-intelligence-group-report/"
+  },
+  {
     "标题": "The new AI-powered Google Finance is expanding to Europe.",
     "发布方": "Google",
     "日期": "2026-05-11",
@@ -255,40 +307,6 @@
     "链接": "https://blog.google/products/ads-commerce/bidding-budgeting-google-marketing-live-2026/"
   },
   {
-    "标题": "Google Health Coach is becoming globally available",
-    "发布方": "Google",
-    "日期": "2026-05-11",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/google-health/google-health-coach/"
-  },
-  {
-    "标题": "Introducing the all-new Fitbit Air",
-    "发布方": "Google",
-    "日期": "2026-05-11",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-air/"
-  },
-  {
     "标题": "A new era for your health and wellness",
     "发布方": "Google",
     "日期": "2026-05-11",
@@ -321,6 +339,40 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/products-and-platforms/products/google-health/stephen-curry-fitbit-air/"
+  },
+  {
+    "标题": "Introducing the all-new Fitbit Air",
+    "发布方": "Google",
+    "日期": "2026-05-11",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-air/"
+  },
+  {
+    "标题": "Google Health Coach is becoming globally available",
+    "发布方": "Google",
+    "日期": "2026-05-11",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/google-health/google-health-coach/"
   },
   {
     "标题": "Here’s how we're celebrating Asian American, Native Hawaiian and Pacific Islander Heritage Month",
@@ -357,23 +409,6 @@
     "链接": "https://blog.google/products-and-platforms/products/search/gardening-tips/"
   },
   {
-    "标题": "5 new ways to explore the web with generative AI in Search",
-    "发布方": "Google",
-    "日期": "2026-05-11",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/search/explore-web-generative-ai-search/"
-  },
-  {
     "标题": "AI is reshaping ad creative. Here’s how brands can get it right.",
     "发布方": "Google",
     "日期": "2026-05-11",
@@ -391,25 +426,7 @@
     "链接": "https://blog.google/products/ads-commerce/ads-decoded-podcast-ai-creative/"
   },
   {
-    "标题": "Gemini API File Search is now multimodal: build efficient, verifiable RAG",
-    "发布方": "Google",
-    "日期": "2026-05-11",
-    "地区": "海外",
-    "类型": "开发者工具",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "开发者工具"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/"
-  },
-  {
-    "标题": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+    "标题": "5 new ways to explore the web with generative AI in Search",
     "发布方": "Google",
     "日期": "2026-05-11",
     "地区": "海外",
@@ -423,7 +440,7 @@
       "模型升级"
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/"
+    "链接": "https://blog.google/products-and-platforms/products/search/explore-web-generative-ai-search/"
   },
   {
     "标题": "The Latest",
