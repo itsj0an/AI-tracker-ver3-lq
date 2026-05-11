@@ -2,7 +2,7 @@
   {
     "标题": "Introducing Claude Opus 4.7 Product Apr 16, 2026 Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most.",
     "发布方": "Anthropic",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Anthropic Newsroom",
@@ -19,7 +19,7 @@
   {
     "标题": "Product Apr 17, 2026 Introducing Claude Design by Anthropic Labs Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
     "发布方": "Anthropic",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -36,7 +36,7 @@
   {
     "标题": "Announcements Feb 4, 2026 Claude is a space to think We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
     "发布方": "Anthropic",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -53,7 +53,7 @@
   {
     "标题": "May 6, 2026 Announcements Higher usage limits for Claude and a compute deal with SpaceX",
     "发布方": "Anthropic",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "企业方案",
     "来源": "Anthropic Newsroom",
@@ -70,7 +70,7 @@
   {
     "标题": "May 5, 2026 Announcements Agents for financial services",
     "发布方": "Anthropic",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Anthropic Newsroom",
@@ -87,7 +87,7 @@
   {
     "标题": "May 4, 2026 Announcements Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
     "发布方": "Anthropic",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "企业方案",
     "来源": "Anthropic Newsroom",
@@ -104,7 +104,7 @@
   {
     "标题": "Apr 28, 2026 Announcements Claude for Creative Work",
     "发布方": "Anthropic",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -121,7 +121,7 @@
   {
     "标题": "Apr 27, 2026 Announcements Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
     "发布方": "Anthropic",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -138,7 +138,7 @@
   {
     "标题": "Apr 24, 2026 Announcements An update on our election safeguards",
     "发布方": "Anthropic",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -155,7 +155,7 @@
   {
     "标题": "Apr 24, 2026 Announcements Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
     "发布方": "Anthropic",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -172,7 +172,7 @@
   {
     "标题": "Apr 20, 2026 Announcements Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
     "发布方": "Anthropic",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "企业方案",
     "来源": "Anthropic Newsroom",
@@ -189,7 +189,7 @@
   {
     "标题": "Responsible Scaling Policy",
     "发布方": "Anthropic",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -204,9 +204,26 @@
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
   },
   {
+    "标题": "The new AI-powered Google Finance is expanding to Europe.",
+    "发布方": "Google",
+    "日期": "2026-05-11",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/"
+  },
+  {
     "标题": "See what happens when creative legends use AI to make ads for small businesses.",
     "发布方": "Google",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -223,7 +240,7 @@
   {
     "标题": "New AI-powered bidding and budgeting innovations in Search and Shopping",
     "发布方": "Google",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -240,7 +257,7 @@
   {
     "标题": "Google Health Coach is becoming globally available",
     "发布方": "Google",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -257,7 +274,7 @@
   {
     "标题": "Introducing the all-new Fitbit Air",
     "发布方": "Google",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -274,7 +291,7 @@
   {
     "标题": "A new era for your health and wellness",
     "发布方": "Google",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -291,7 +308,7 @@
   {
     "标题": "Pre-order Stephen Curry’s special edition Fitbit Air",
     "发布方": "Google",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -308,7 +325,7 @@
   {
     "标题": "Here’s how we're celebrating Asian American, Native Hawaiian and Pacific Islander Heritage Month",
     "发布方": "Google",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -325,7 +342,7 @@
   {
     "标题": "5 gardening tips you can try right in Search",
     "发布方": "Google",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -340,26 +357,9 @@
     "链接": "https://blog.google/products-and-platforms/products/search/gardening-tips/"
   },
   {
-    "标题": "AI is reshaping ad creative. Here’s how brands can get it right.",
-    "发布方": "Google",
-    "日期": "2026-05-10",
-    "地区": "海外",
-    "类型": "开发者工具",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "开发者工具"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products/ads-commerce/ads-decoded-podcast-ai-creative/"
-  },
-  {
     "标题": "5 new ways to explore the web with generative AI in Search",
     "发布方": "Google",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -374,9 +374,26 @@
     "链接": "https://blog.google/products-and-platforms/products/search/explore-web-generative-ai-search/"
   },
   {
+    "标题": "AI is reshaping ad creative. Here’s how brands can get it right.",
+    "发布方": "Google",
+    "日期": "2026-05-11",
+    "地区": "海外",
+    "类型": "开发者工具",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "开发者工具"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products/ads-commerce/ads-decoded-podcast-ai-creative/"
+  },
+  {
     "标题": "Gemini API File Search is now multimodal: build efficient, verifiable RAG",
     "发布方": "Google",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "开发者工具",
     "来源": "Google Blog",
@@ -394,7 +411,7 @@
   {
     "标题": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
     "发布方": "Google",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -411,7 +428,7 @@
   {
     "标题": "The Latest",
     "发布方": "Meta",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -428,7 +445,7 @@
   {
     "标题": "FEATURED",
     "发布方": "Meta",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -445,7 +462,7 @@
   {
     "标题": "FEATURED",
     "发布方": "Meta",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -462,7 +479,7 @@
   {
     "标题": "FEATURED",
     "发布方": "Meta",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -479,7 +496,7 @@
   {
     "标题": "FEATURED",
     "发布方": "Meta",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -496,7 +513,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -513,7 +530,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -530,7 +547,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -547,7 +564,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -564,7 +581,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -581,7 +598,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -598,7 +615,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -615,7 +632,7 @@
   {
     "标题": "Remote agents in Vibe. Powered by Mistral Medium 3.5. Product Introducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for complex tasks. Apr 29, 2026 Mistral AI",
     "发布方": "Mistral",
-    "日期": "2026-05-10",
+    "日期": "2026-05-11",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Mistral News",
