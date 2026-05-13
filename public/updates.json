@@ -51,6 +51,23 @@
     "链接": "https://www.anthropic.com/news/claude-is-a-space-to-think"
   },
   {
+    "标题": "May 13, 2026 Announcements Introducing Claude for Small Business",
+    "发布方": "Anthropic",
+    "日期": "2026-05-13",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Anthropic Newsroom",
+    "来源类型": "官方",
+    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "标签": [
+      "Anthropic",
+      "Claude",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
+    "链接": "https://www.anthropic.com/news/claude-for-small-business"
+  },
+  {
     "标题": "May 6, 2026 Announcements Higher usage limits for Claude and a compute deal with SpaceX",
     "发布方": "Anthropic",
     "日期": "2026-05-13",
@@ -204,6 +221,58 @@
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
   },
   {
+    "标题": "Start learning with Google’s new AI Educator Series.",
+    "发布方": "Google",
+    "日期": "2026-05-13",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/education/ai-educator-series/"
+  },
+  {
+    "标题": "Exploring Matisse’s ‘Wild Palette’: Can AI offer new ways to connect with art?",
+    "发布方": "Google",
+    "日期": "2026-05-13",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/matisse-femme-au-chapeau/"
+  },
+  {
+    "标题": "Meet the 100+ startups joining our second Google for Startups Gemini Startup Forum",
+    "发布方": "Google",
+    "日期": "2026-05-13",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/2026-gemini-startups-forum/"
+  },
+  {
     "标题": "Our fight against fraud: 5 ways we’re keeping you safer",
     "发布方": "Google",
     "日期": "2026-05-13",
@@ -219,24 +288,6 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/innovation-and-ai/technology/safety-security/scams-fraud-protection/"
-  },
-  {
-    "标题": "Introducing Googlebook, designed for Gemini Intelligence",
-    "发布方": "Google",
-    "日期": "2026-05-13",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/platforms/android/meet-googlebook/"
   },
   {
     "标题": "Bringing the best of Gemini in Chrome to Android",
@@ -255,6 +306,24 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/products-and-platforms/products/chrome/bringing-chrome-ai-to-android/"
+  },
+  {
+    "标题": "Introducing Googlebook, designed for Gemini Intelligence",
+    "发布方": "Google",
+    "日期": "2026-05-13",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/platforms/android/meet-googlebook/"
   },
   {
     "标题": "More ways to create and share with Android",
@@ -411,40 +480,6 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/"
-  },
-  {
-    "标题": "See what happens when creative legends use AI to make ads for small businesses.",
-    "发布方": "Google",
-    "日期": "2026-05-13",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/"
-  },
-  {
-    "标题": "New AI-powered bidding and budgeting innovations in Search and Shopping",
-    "发布方": "Google",
-    "日期": "2026-05-13",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products/ads-commerce/bidding-budgeting-google-marketing-live-2026/"
   },
   {
     "标题": "FEATURED",
