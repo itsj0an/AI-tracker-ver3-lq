@@ -238,6 +238,24 @@
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
   },
   {
+    "标题": "Here's how accessibility tools and Gemini are helping students find independence",
+    "发布方": "Google",
+    "日期": "2026-05-21",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/devices/chromebooks/face-control/"
+  },
+  {
     "标题": "100 things we announced at I/O 2026",
     "发布方": "Google",
     "日期": "2026-05-21",
@@ -461,42 +479,6 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/"
-  },
-  {
-    "标题": "I/O 2026: Welcome to the agentic Gemini era",
-    "发布方": "Google",
-    "日期": "2026-05-21",
-    "地区": "海外",
-    "类型": "Agent",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "Agent"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/"
-  },
-  {
-    "标题": "Gemini 3.5: frontier intelligence with action",
-    "发布方": "Google",
-    "日期": "2026-05-21",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/"
   },
   {
     "标题": "FEATURED",
