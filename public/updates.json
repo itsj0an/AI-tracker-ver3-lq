@@ -51,6 +51,40 @@
     "链接": "https://www.anthropic.com/news/claude-is-a-space-to-think"
   },
   {
+    "标题": "Jun 3, 2026 Announcements Introducing the Services Track and Partner Hub of the Claude Partner Network",
+    "发布方": "Anthropic",
+    "日期": "2026-06-03",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Anthropic Newsroom",
+    "来源类型": "官方",
+    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "标签": [
+      "Anthropic",
+      "Claude",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
+    "链接": "https://www.anthropic.com/news/services-track-partner-hub"
+  },
+  {
+    "标题": "Jun 3, 2026 Policy What we learned mapping a year’s worth of AI-enabled cyber threats",
+    "发布方": "Anthropic",
+    "日期": "2026-06-03",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Anthropic Newsroom",
+    "来源类型": "官方",
+    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "标签": [
+      "Anthropic",
+      "Claude",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
+    "链接": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack"
+  },
+  {
     "标题": "Jun 2, 2026 Announcements Expanding Project Glasswing",
     "发布方": "Anthropic",
     "日期": "2026-06-03",
@@ -153,40 +187,6 @@
     "链接": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical"
   },
   {
-    "标题": "May 19, 2026 Announcements Widening the conversation on frontier AI",
-    "发布方": "Anthropic",
-    "日期": "2026-06-03",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Anthropic Newsroom",
-    "来源类型": "官方",
-    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
-    "标签": [
-      "Anthropic",
-      "Claude",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/widening-conversation-ai"
-  },
-  {
-    "标题": "May 19, 2026 Announcements KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
-    "发布方": "Anthropic",
-    "日期": "2026-06-03",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Anthropic Newsroom",
-    "来源类型": "官方",
-    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
-    "标签": [
-      "Anthropic",
-      "Claude",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/anthropic-kpmg"
-  },
-  {
     "标题": "Responsible Scaling Policy",
     "发布方": "Anthropic",
     "日期": "2026-06-03",
@@ -202,6 +202,74 @@
     ],
     "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
+  },
+  {
+    "标题": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+    "发布方": "Google",
+    "日期": "2026-06-03",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/"
+  },
+  {
+    "标题": "Meet Dreambeans, an app that connects you with what matters",
+    "发布方": "Google",
+    "日期": "2026-06-03",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans/"
+  },
+  {
+    "标题": "Alphabet investor presentation: June 2026",
+    "发布方": "Google",
+    "日期": "2026-06-03",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/alphabet/investor-presentation-june-2026/"
+  },
+  {
+    "标题": "5 ways Google Search can level up your thrift and vintage shopping",
+    "发布方": "Google",
+    "日期": "2026-06-03",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/search/thrifting-tips/"
   },
   {
     "标题": "New opportunities, control and insights for website owners",
@@ -341,40 +409,6 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/products-and-platforms/products/search/original-high-quality-content-search/"
-  },
-  {
-    "标题": "Google Display Ads has a new home in Demand Gen.",
-    "发布方": "Google",
-    "日期": "2026-06-03",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products/ads-commerce/google-display-ads-demand-gen/"
-  },
-  {
-    "标题": "Catch up on the Dialogues stage at Google I/O 2026.",
-    "发布方": "Google",
-    "日期": "2026-06-03",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/"
   },
   {
     "标题": "FEATURED",
