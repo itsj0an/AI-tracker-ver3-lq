@@ -204,6 +204,75 @@
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
   },
   {
+    "标题": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+    "发布方": "Google",
+    "日期": "2026-06-09",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/"
+  },
+  {
+    "标题": "We've teamed up with American Airlines to reduce nearly 300,000 tons of CO2.",
+    "发布方": "Google",
+    "日期": "2026-06-09",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/company-news/outreach-and-initiatives/sustainability/american-airlines-sustainable-aviation-fuel/"
+  },
+  {
+    "标题": "The future of learning in the AI age",
+    "发布方": "Google",
+    "日期": "2026-06-09",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/education/future-learning-ai-era/"
+  },
+  {
+    "标题": "Powering the future of robotics in Europe",
+    "发布方": "Google",
+    "日期": "2026-06-09",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/topics/google-europe/powering-the-future-of-robotics-in-europe/"
+  },
+  {
     "标题": "Bringing the latest Gemini models to Apple developers",
     "发布方": "Google",
     "日期": "2026-06-09",
@@ -239,7 +308,7 @@
     "链接": "https://blog.google/innovation-and-ai/products/notebooklm/better-research-notebooklm/"
   },
   {
-    "标题": "4 ways to keep up with the FIFA World Cup 2026™",
+    "标题": "4 ways soccer fans can catch every moment of the tournament",
     "发布方": "Google",
     "日期": "2026-06-09",
     "地区": "海外",
@@ -254,7 +323,7 @@
       "模型升级"
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/search/fifa-world-cup-google-tools-2026/"
+    "链接": "https://blog.google/products-and-platforms/products/search/soccer-tournament-google-tools-2026/"
   },
   {
     "标题": "Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency",
@@ -309,23 +378,6 @@
     "链接": "https://blog.google/products-and-platforms/products/education/utah-state-education-partnership/"
   },
   {
-    "标题": "Kaggle is making AI benchmark creation effortless",
-    "发布方": "Google",
-    "日期": "2026-06-09",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/build-kaggle--benchmarks-locally/"
-  },
-  {
     "标题": "Industry leaders share new perspectives on generative media for startups",
     "发布方": "Google",
     "日期": "2026-06-09",
@@ -343,7 +395,7 @@
     "链接": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/future-of-ai/"
   },
   {
-    "标题": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+    "标题": "Kaggle is making AI benchmark creation effortless",
     "发布方": "Google",
     "日期": "2026-06-09",
     "地区": "海外",
@@ -357,58 +409,7 @@
       "模型升级"
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/"
-  },
-  {
-    "标题": "Meet Dreambeans, an app that connects you with what matters",
-    "发布方": "Google",
-    "日期": "2026-06-09",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans/"
-  },
-  {
-    "标题": "Alphabet investor presentation: June 2026",
-    "发布方": "Google",
-    "日期": "2026-06-09",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/alphabet/investor-presentation-june-2026/"
-  },
-  {
-    "标题": "5 ways Google Search can level up your thrift and vintage shopping",
-    "发布方": "Google",
-    "日期": "2026-06-09",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/search/thrifting-tips/"
+    "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/build-kaggle--benchmarks-locally/"
   },
   {
     "标题": "FEATURED",
