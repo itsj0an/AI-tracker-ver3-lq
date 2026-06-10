@@ -1,25 +1,25 @@
 [
   {
-    "标题": "Introducing Claude Opus 4.8 Product May 28, 2026 An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
+    "标题": "Claude Fable 5 and Claude Mythos 5 Announcements Jun 9, 2026 Our next generation of intelligence for the hardest knowledge work and coding problems.",
     "发布方": "Anthropic",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
-    "类型": "Agent",
+    "类型": "模型升级",
     "来源": "Anthropic Newsroom",
     "来源类型": "官方",
     "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
     "标签": [
       "Anthropic",
       "Claude",
-      "Agent"
+      "模型升级"
     ],
     "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/claude-opus-4-8"
+    "链接": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
   },
   {
     "标题": "Announcements Jun 2, 2026 Expanding Project Glasswing We’re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries.",
     "发布方": "Anthropic",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -34,9 +34,26 @@
     "链接": "https://www.anthropic.com/news/expanding-project-glasswing"
   },
   {
+    "标题": "Product May 28, 2026 Introducing Claude Opus 4.8 An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
+    "发布方": "Anthropic",
+    "日期": "2026-06-10",
+    "地区": "海外",
+    "类型": "Agent",
+    "来源": "Anthropic Newsroom",
+    "来源类型": "官方",
+    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "标签": [
+      "Anthropic",
+      "Claude",
+      "Agent"
+    ],
+    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
+    "链接": "https://www.anthropic.com/news/claude-opus-4-8"
+  },
+  {
     "标题": "Announcements May 25, 2026 Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\" The full text of Chris Olah's remarks on the Pope's encyclical on AI.",
     "发布方": "Anthropic",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -53,7 +70,7 @@
   {
     "标题": "Announcements May 19, 2026 Widening the conversation on frontier AI Over the past several months, we’ve been organizing dialogues with groups whose work and traditions bear on the questions raised by AI.",
     "发布方": "Anthropic",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -68,26 +85,9 @@
     "链接": "https://www.anthropic.com/news/widening-conversation-ai"
   },
   {
-    "标题": "Announcements Apr 24, 2026 An update on our election safeguards We explain what we’re doing to ensure Claude plays a positive role in the US midterms and other major elections around the world this year.",
-    "发布方": "Anthropic",
-    "日期": "2026-06-09",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Anthropic Newsroom",
-    "来源类型": "官方",
-    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
-    "标签": [
-      "Anthropic",
-      "Claude",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/election-safeguards-update"
-  },
-  {
     "标题": "Jun 3, 2026 Announcements Introducing the Services Track and Partner Hub of the Claude Partner Network",
     "发布方": "Anthropic",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -104,7 +104,7 @@
   {
     "标题": "Jun 3, 2026 Policy What we learned mapping a year’s worth of AI-enabled cyber threats",
     "发布方": "Anthropic",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -121,7 +121,7 @@
   {
     "标题": "Jun 1, 2026 Announcements Anthropic confidentially submits draft S-1 to the SEC",
     "发布方": "Anthropic",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -138,7 +138,7 @@
   {
     "标题": "May 28, 2026 Announcements Anthropic raises $65B in Series H funding at $965B post-money valuation",
     "发布方": "Anthropic",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -155,7 +155,7 @@
   {
     "标题": "May 27, 2026 Announcements Anthropic opens Milan office to support Italian enterprise, research, and developers",
     "发布方": "Anthropic",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "开发者工具",
     "来源": "Anthropic Newsroom",
@@ -172,7 +172,7 @@
   {
     "标题": "May 26, 2026 Announcements Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
     "发布方": "Anthropic",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -189,7 +189,7 @@
   {
     "标题": "Responsible Scaling Policy",
     "发布方": "Anthropic",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -204,9 +204,43 @@
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
   },
   {
+    "标题": "Get travel-ready with Google Fi Wireless",
+    "发布方": "Google",
+    "日期": "2026-06-10",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/google-fi-wireless/international-travel-features-5g-coverage/"
+  },
+  {
+    "标题": "See what 3 builders are making with Gemma 4",
+    "发布方": "Google",
+    "日期": "2026-06-10",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4-builders/"
+  },
+  {
     "标题": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
     "发布方": "Google",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -224,7 +258,7 @@
   {
     "标题": "We've teamed up with American Airlines to reduce nearly 300,000 tons of CO2.",
     "发布方": "Google",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -241,7 +275,7 @@
   {
     "标题": "The future of learning in the AI age",
     "发布方": "Google",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -258,7 +292,7 @@
   {
     "标题": "Powering the future of robotics in Europe",
     "发布方": "Google",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -275,7 +309,7 @@
   {
     "标题": "Bringing the latest Gemini models to Apple developers",
     "发布方": "Google",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "开发者工具",
     "来源": "Google Blog",
@@ -293,7 +327,7 @@
   {
     "标题": "Do better research with NotebookLM",
     "发布方": "Google",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -310,7 +344,7 @@
   {
     "标题": "4 ways soccer fans can catch every moment of the tournament",
     "发布方": "Google",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -328,7 +362,7 @@
   {
     "标题": "Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency",
     "发布方": "Google",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -345,7 +379,7 @@
   {
     "标题": "The latest AI news we announced in May 2026",
     "发布方": "Google",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -362,7 +396,7 @@
   {
     "标题": "Utah State brings Gemini for Education to all K-12 schools",
     "发布方": "Google",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -380,7 +414,7 @@
   {
     "标题": "Industry leaders share new perspectives on generative media for startups",
     "发布方": "Google",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -397,7 +431,7 @@
   {
     "标题": "Kaggle is making AI benchmark creation effortless",
     "发布方": "Google",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -414,7 +448,7 @@
   {
     "标题": "FEATURED",
     "发布方": "Meta",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -431,7 +465,7 @@
   {
     "标题": "FEATURED",
     "发布方": "Meta",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -448,7 +482,7 @@
   {
     "标题": "FEATURED",
     "发布方": "Meta",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -465,7 +499,7 @@
   {
     "标题": "FEATURED",
     "发布方": "Meta",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -482,7 +516,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -499,7 +533,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -516,7 +550,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -533,7 +567,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -550,7 +584,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -567,7 +601,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -584,7 +618,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -601,7 +635,7 @@
   {
     "标题": "Mistral Medium 3.5",
     "发布方": "Mistral",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Mistral News",
@@ -618,7 +652,7 @@
   {
     "标题": "Mistral Small 4",
     "发布方": "Mistral",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Mistral News",
@@ -635,7 +669,7 @@
   {
     "标题": "Mistral 3",
     "发布方": "Mistral",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Mistral News",
@@ -652,7 +686,7 @@
   {
     "标题": "Voxtral TTS",
     "发布方": "Mistral",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Mistral News",
@@ -669,7 +703,7 @@
   {
     "标题": "AI Now Summit 2026",
     "发布方": "Mistral",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Mistral News",
@@ -686,7 +720,7 @@
   {
     "标题": "Vibe gets to work.",
     "发布方": "Mistral",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Mistral News",
@@ -703,7 +737,7 @@
   {
     "标题": "Introducing Search Toolkit",
     "发布方": "Mistral",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Mistral News",
@@ -720,7 +754,7 @@
   {
     "标题": "Solutions Introducing physics AI at Mistral: the foundation for engineering acceleration. A new class of AI models that predict the behavior of physical systems, powering the engineers and hardware products of tomorrow. May 27, 2026 Mistral",
     "发布方": "Mistral",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Mistral News",
@@ -737,7 +771,7 @@
   {
     "标题": "Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 Mistral",
     "发布方": "Mistral",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "开发者工具",
     "来源": "Mistral News",
@@ -754,7 +788,7 @@
   {
     "标题": "Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI",
     "发布方": "Mistral",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Mistral News",
@@ -771,7 +805,7 @@
   {
     "标题": "Product Remote agents in Vibe. Powered by Mistral Medium 3.5. Introducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for complex tasks. May 22, 2026 Mistral AI",
     "发布方": "Mistral",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Mistral News",
@@ -788,7 +822,7 @@
   {
     "标题": "Product Connect the dots: Build with built-in and custom MCPs in Studio Connect enterprise data to your AI applications with reusable connectors, direct tool calling, and human-in-the-loop approval controls. May 22, 2026 Mistral AI",
     "发布方": "Mistral",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "企业方案",
     "来源": "Mistral News",
@@ -805,7 +839,7 @@
   {
     "标题": "Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI",
     "发布方": "Mistral",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Mistral News",
@@ -822,7 +856,7 @@
   {
     "标题": "Research Speaking of Voxtral Voxtral TTS: A frontier, open-weights text-to-speech model that’s fast, instantly adaptable, and produces lifelike speech for voice agents. March 23, 2026 Mistral AI",
     "发布方": "Mistral",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Mistral News",
@@ -839,7 +873,7 @@
   {
     "标题": "Product Introducing Forge Today, we’re introducing Forge, a system for enterprises to build frontier-grade AI models grounded in their proprietary knowledge. March 17, 2026 Mistral AI",
     "发布方": "Mistral",
-    "日期": "2026-06-09",
+    "日期": "2026-06-10",
     "地区": "海外",
     "类型": "企业方案",
     "来源": "Mistral News",
