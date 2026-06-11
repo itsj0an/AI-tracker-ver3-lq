@@ -17,6 +17,23 @@
     "链接": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
   },
   {
+    "标题": "Announcements Jun 11, 2026 Introducing Claude Corps We’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.",
+    "发布方": "Anthropic",
+    "日期": "2026-06-11",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Anthropic Newsroom",
+    "来源类型": "官方",
+    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "标签": [
+      "Anthropic",
+      "Claude",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
+    "链接": "https://www.anthropic.com/news/claude-corps"
+  },
+  {
     "标题": "Announcements Jun 2, 2026 Expanding Project Glasswing We’re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries.",
     "发布方": "Anthropic",
     "日期": "2026-06-11",
@@ -32,23 +49,6 @@
     ],
     "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
     "链接": "https://www.anthropic.com/news/expanding-project-glasswing"
-  },
-  {
-    "标题": "Product May 28, 2026 Introducing Claude Opus 4.8 An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
-    "发布方": "Anthropic",
-    "日期": "2026-06-11",
-    "地区": "海外",
-    "类型": "Agent",
-    "来源": "Anthropic Newsroom",
-    "来源类型": "官方",
-    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
-    "标签": [
-      "Anthropic",
-      "Claude",
-      "Agent"
-    ],
-    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/claude-opus-4-8"
   },
   {
     "标题": "Announcements May 25, 2026 Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\" The full text of Chris Olah's remarks on the Pope's encyclical on AI.",
@@ -136,6 +136,23 @@
     "链接": "https://www.anthropic.com/news/series-h"
   },
   {
+    "标题": "May 28, 2026 Product Introducing Claude Opus 4.8",
+    "发布方": "Anthropic",
+    "日期": "2026-06-11",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Anthropic Newsroom",
+    "来源类型": "官方",
+    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "标签": [
+      "Anthropic",
+      "Claude",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
+    "链接": "https://www.anthropic.com/news/claude-opus-4-8"
+  },
+  {
     "标题": "May 27, 2026 Announcements Anthropic opens Milan office to support Italian enterprise, research, and developers",
     "发布方": "Anthropic",
     "日期": "2026-06-11",
@@ -185,6 +202,40 @@
     ],
     "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
+  },
+  {
+    "标题": "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
+    "发布方": "Google",
+    "日期": "2026-06-11",
+    "地区": "海外",
+    "类型": "Agent",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Agent"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products/ads-commerce/new-real-estate-ads-formats/"
+  },
+  {
+    "标题": "We’re bringing Walmart Connect to Display & Video 360.",
+    "发布方": "Google",
+    "日期": "2026-06-11",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products/marketingplatform/360/walmart-connect/"
   },
   {
     "标题": "DiffusionGemma: 4x faster text generation",
@@ -393,58 +444,6 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/company-news/outreach-and-initiatives/sustainability/american-airlines-sustainable-aviation-fuel/"
-  },
-  {
-    "标题": "The future of learning in the AI age",
-    "发布方": "Google",
-    "日期": "2026-06-11",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/education/future-learning-ai-era/"
-  },
-  {
-    "标题": "Powering the future of robotics in Europe",
-    "发布方": "Google",
-    "日期": "2026-06-11",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/topics/google-europe/powering-the-future-of-robotics-in-europe/"
-  },
-  {
-    "标题": "Bringing the latest Gemini models to Apple developers",
-    "发布方": "Google",
-    "日期": "2026-06-11",
-    "地区": "海外",
-    "类型": "开发者工具",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "开发者工具"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/bringing-gemini-models-to-apple-developers/"
   },
   {
     "标题": "FEATURED",
