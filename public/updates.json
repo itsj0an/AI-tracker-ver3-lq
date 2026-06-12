@@ -68,6 +68,23 @@
     "链接": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical"
   },
   {
+    "标题": "Jun 12, 2026 Announcements Results from the first Anthropic Public Record",
+    "发布方": "Anthropic",
+    "日期": "2026-06-12",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Anthropic Newsroom",
+    "来源类型": "官方",
+    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "标签": [
+      "Anthropic",
+      "Claude",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
+    "链接": "https://www.anthropic.com/news/anthropic-public-record"
+  },
+  {
     "标题": "Jun 11, 2026 Announcements DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
     "发布方": "Anthropic",
     "日期": "2026-06-12",
@@ -170,23 +187,6 @@
     "链接": "https://www.anthropic.com/news/claude-opus-4-8"
   },
   {
-    "标题": "May 27, 2026 Announcements Anthropic opens Milan office to support Italian enterprise, research, and developers",
-    "发布方": "Anthropic",
-    "日期": "2026-06-12",
-    "地区": "海外",
-    "类型": "开发者工具",
-    "来源": "Anthropic Newsroom",
-    "来源类型": "官方",
-    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
-    "标签": [
-      "Anthropic",
-      "Claude",
-      "开发者工具"
-    ],
-    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/milan-office-opening"
-  },
-  {
     "标题": "Responsible Scaling Policy",
     "发布方": "Anthropic",
     "日期": "2026-06-12",
@@ -202,6 +202,23 @@
     ],
     "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
+  },
+  {
+    "标题": "How we're combatting AI scams with security, legislation and more",
+    "发布方": "Google",
+    "日期": "2026-06-12",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/technology/safety-security/combatting-ai-scams/"
   },
   {
     "标题": "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
@@ -291,23 +308,6 @@
     "链接": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-features-for-businesses/"
   },
   {
-    "标题": "Guiding the AI generation: Why safeguarding and digital literacy must go hand-in-hand",
-    "发布方": "Google",
-    "日期": "2026-06-12",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/safeguarding-and-digital-literacy/"
-  },
-  {
     "标题": "The Future Report: Why young people must help shape the future of AI",
     "发布方": "Google",
     "日期": "2026-06-12",
@@ -323,6 +323,23 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/future-report-why-young-people-must-help-shape-the-future-of-ai/"
+  },
+  {
+    "标题": "Guiding the AI generation: Why safeguarding and digital literacy must go hand-in-hand",
+    "发布方": "Google",
+    "日期": "2026-06-12",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/safeguarding-and-digital-literacy/"
   },
   {
     "标题": "Our 2026 UK Future Report",
@@ -409,24 +426,6 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4-builders/"
-  },
-  {
-    "标题": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-    "发布方": "Google",
-    "日期": "2026-06-12",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/"
   },
   {
     "标题": "FEATURED",
