@@ -221,6 +221,41 @@
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
   },
   {
+    "标题": "Powering the world’s first AI arts museum",
+    "发布方": "Google",
+    "日期": "2026-06-18",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/dataland-ai-art-museum/"
+  },
+  {
+    "标题": "Introducing Ask Ad Manager, the AI agent that will help you get more done",
+    "发布方": "Google",
+    "日期": "2026-06-18",
+    "地区": "海外",
+    "类型": "Agent",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "Agent"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products/admanager/ask-ad-manager/"
+  },
+  {
     "标题": "How universities are preparing students for an AI-powered future",
     "发布方": "Google",
     "日期": "2026-06-18",
@@ -358,57 +393,6 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/company-news/inside-google/message-ceo/stanford-commencement-speech-2026/"
-  },
-  {
-    "标题": "How we're combatting AI scams with security, legislation and more",
-    "发布方": "Google",
-    "日期": "2026-06-18",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/safety-security/combatting-ai-scams/"
-  },
-  {
-    "标题": "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
-    "发布方": "Google",
-    "日期": "2026-06-18",
-    "地区": "海外",
-    "类型": "Agent",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Agent"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products/ads-commerce/new-real-estate-ads-formats/"
-  },
-  {
-    "标题": "We’re bringing Walmart Connect to Display & Video 360.",
-    "发布方": "Google",
-    "日期": "2026-06-18",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products/marketingplatform/360/walmart-connect/"
   },
   {
     "标题": "FEATURED",
@@ -717,6 +701,57 @@
     "链接": "https://mistral.ai/news/search-toolkit"
   },
   {
+    "标题": "Product Vibe gets to work. The unified agent for long-horizon productivity and coding, launching with Work and Code modes. Plus, a new Vibe VS Code extension. May 28, 2026 Mistral",
+    "发布方": "Mistral",
+    "日期": "2026-06-18",
+    "地区": "海外",
+    "类型": "Agent",
+    "来源": "Mistral News",
+    "来源类型": "官方",
+    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
+    "标签": [
+      "Mistral",
+      "海外AI",
+      "Agent"
+    ],
+    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
+    "链接": "https://mistral.ai/news/vibe-agent/"
+  },
+  {
+    "标题": "Company AI Now Summit 2026 Innovations for global enterprises solving the world’s hardest problems. May 28, 2026 Mistral",
+    "发布方": "Mistral",
+    "日期": "2026-06-18",
+    "地区": "海外",
+    "类型": "企业方案",
+    "来源": "Mistral News",
+    "来源类型": "官方",
+    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
+    "标签": [
+      "Mistral",
+      "海外AI",
+      "企业方案"
+    ],
+    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
+    "链接": "https://mistral.ai/news/ai-now-summit-2026/"
+  },
+  {
+    "标题": "Product Introducing Search Toolkit Production search pipelines, anywhere. May 28, 2026 Mistral",
+    "发布方": "Mistral",
+    "日期": "2026-06-18",
+    "地区": "海外",
+    "类型": "产品发布",
+    "来源": "Mistral News",
+    "来源类型": "官方",
+    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
+    "标签": [
+      "Mistral",
+      "海外AI",
+      "产品发布"
+    ],
+    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
+    "链接": "https://mistral.ai/news/search-toolkit/"
+  },
+  {
     "标题": "Solutions Introducing physics AI at Mistral: the foundation for engineering acceleration. A new class of AI models that predict the behavior of physical systems, powering the engineers and hardware products of tomorrow. May 27, 2026 Mistral",
     "发布方": "Mistral",
     "日期": "2026-06-18",
@@ -731,7 +766,7 @@
       "模型升级"
     ],
     "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/introducing-physics-ai-at-mistral"
+    "链接": "https://mistral.ai/news/introducing-physics-ai-at-mistral/"
   },
   {
     "标题": "Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 Mistral",
@@ -748,7 +783,7 @@
       "开发者工具"
     ],
     "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/physics-ai-research"
+    "链接": "https://mistral.ai/news/physics-ai-research/"
   },
   {
     "标题": "Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI",
@@ -765,24 +800,7 @@
       "产品发布"
     ],
     "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/accelerate-ai-native-industry"
-  },
-  {
-    "标题": "Product Remote agents in Vibe. Powered by Mistral Medium 3.5. Introducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for complex tasks. May 22, 2026 Mistral AI",
-    "发布方": "Mistral",
-    "日期": "2026-06-18",
-    "地区": "海外",
-    "类型": "Agent",
-    "来源": "Mistral News",
-    "来源类型": "官方",
-    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
-    "标签": [
-      "Mistral",
-      "海外AI",
-      "Agent"
-    ],
-    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5"
+    "链接": "https://mistral.ai/news/accelerate-ai-native-industry/"
   },
   {
     "标题": "Product Connect the dots: Build with built-in and custom MCPs in Studio Connect enterprise data to your AI applications with reusable connectors, direct tool calling, and human-in-the-loop approval controls. May 22, 2026 Mistral AI",
@@ -799,7 +817,7 @@
       "企业方案"
     ],
     "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/connectors"
+    "链接": "https://mistral.ai/news/connectors/"
   },
   {
     "标题": "Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI",
@@ -816,40 +834,6 @@
       "产品发布"
     ],
     "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/workflows"
-  },
-  {
-    "标题": "Research Speaking of Voxtral Voxtral TTS: A frontier, open-weights text-to-speech model that’s fast, instantly adaptable, and produces lifelike speech for voice agents. March 23, 2026 Mistral AI",
-    "发布方": "Mistral",
-    "日期": "2026-06-18",
-    "地区": "海外",
-    "类型": "Agent",
-    "来源": "Mistral News",
-    "来源类型": "官方",
-    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
-    "标签": [
-      "Mistral",
-      "海外AI",
-      "Agent"
-    ],
-    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/voxtral-tts"
-  },
-  {
-    "标题": "Product Introducing Forge Today, we’re introducing Forge, a system for enterprises to build frontier-grade AI models grounded in their proprietary knowledge. March 17, 2026 Mistral AI",
-    "发布方": "Mistral",
-    "日期": "2026-06-18",
-    "地区": "海外",
-    "类型": "企业方案",
-    "来源": "Mistral News",
-    "来源类型": "官方",
-    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
-    "标签": [
-      "Mistral",
-      "海外AI",
-      "企业方案"
-    ],
-    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/forge"
+    "链接": "https://mistral.ai/news/workflows/"
   }
 ]
