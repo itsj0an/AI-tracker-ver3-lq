@@ -221,6 +221,41 @@
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
   },
   {
+    "标题": "Interactions API: our primary interface for Gemini models and agents",
+    "发布方": "Google",
+    "日期": "2026-06-22",
+    "地区": "海外",
+    "类型": "Agent",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "Agent"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/interactions-api-general-availability/"
+  },
+  {
+    "标题": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+    "发布方": "Google",
+    "日期": "2026-06-22",
+    "地区": "海外",
+    "类型": "企业方案",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "企业方案"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/deepmind-a24-research-partnership/"
+  },
+  {
     "标题": "Street View opens a new window into Georgia",
     "发布方": "Google",
     "日期": "2026-06-22",
@@ -376,23 +411,6 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/"
-  },
-  {
-    "标题": "Google Fitbit Air is now HSA/FSA eligible in the U.S.",
-    "发布方": "Google",
-    "日期": "2026-06-22",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/devices/fitbit/buy-fitbit-air-pre-tax-health-savings/"
   },
   {
     "标题": "FEATURED",
