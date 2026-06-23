@@ -221,6 +221,40 @@
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
   },
   {
+    "标题": "Preserving cultural heritage: Inside Google DeepMind’s collaboration with Pelé",
+    "发布方": "Google",
+    "日期": "2026-06-23",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/preserving-cultural-heritage-inside-google-deepminds-collaboration-with-pele/"
+  },
+  {
+    "标题": "Cannes Lions 2026: Strengthen creative campaigns with new tools from YouTube",
+    "发布方": "Google",
+    "日期": "2026-06-23",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products/ads-commerce/youtube-insights-tools-cannes-lions-2026/"
+  },
+  {
     "标题": "Interactions API: our primary interface for Gemini models and agents",
     "发布方": "Google",
     "日期": "2026-06-23",
@@ -375,24 +409,6 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-cloud-summit-london-2026/"
-  },
-  {
-    "标题": "Wear OS 7 helps your smartwatch keep up with you",
-    "发布方": "Google",
-    "日期": "2026-06-23",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/platforms/wear-os/google-io-2026-wear-os/"
   },
   {
     "标题": "FEATURED",
@@ -582,6 +598,23 @@
     "链接": "https://ai.meta.com/blog/sam-audio/"
   },
   {
+    "标题": "Mistral OCR 4",
+    "发布方": "Mistral",
+    "日期": "2026-06-23",
+    "地区": "海外",
+    "类型": "产品发布",
+    "来源": "Mistral News",
+    "来源类型": "官方",
+    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
+    "标签": [
+      "Mistral",
+      "海外AI",
+      "产品发布"
+    ],
+    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
+    "链接": "https://mistral.ai/news/ocr-4/"
+  },
+  {
     "标题": "Mistral Medium 3.5",
     "发布方": "Mistral",
     "日期": "2026-06-23",
@@ -616,23 +649,6 @@
     "链接": "https://mistral.ai/news/mistral-small-4/"
   },
   {
-    "标题": "Mistral 3",
-    "发布方": "Mistral",
-    "日期": "2026-06-23",
-    "地区": "海外",
-    "类型": "产品发布",
-    "来源": "Mistral News",
-    "来源类型": "官方",
-    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
-    "标签": [
-      "Mistral",
-      "海外AI",
-      "产品发布"
-    ],
-    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/mistral-3/"
-  },
-  {
     "标题": "Voxtral TTS",
     "发布方": "Mistral",
     "日期": "2026-06-23",
@@ -648,6 +664,23 @@
     ],
     "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
     "链接": "https://mistral.ai/news/voxtral-tts/"
+  },
+  {
+    "标题": "Introducing Mistral OCR 4",
+    "发布方": "Mistral",
+    "日期": "2026-06-23",
+    "地区": "海外",
+    "类型": "产品发布",
+    "来源": "Mistral News",
+    "来源类型": "官方",
+    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
+    "标签": [
+      "Mistral",
+      "海外AI",
+      "产品发布"
+    ],
+    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
+    "链接": "https://mistral.ai/news/ocr-4"
   },
   {
     "标题": "AI Now Summit 2026",
@@ -684,21 +717,21 @@
     "链接": "https://mistral.ai/news/vibe-agent"
   },
   {
-    "标题": "Introducing Search Toolkit",
+    "标题": "Company AI Now Summit 2026 Innovations for global enterprises solving the world’s hardest problems. May 28, 2026 Mistral",
     "发布方": "Mistral",
     "日期": "2026-06-23",
     "地区": "海外",
-    "类型": "产品发布",
+    "类型": "企业方案",
     "来源": "Mistral News",
     "来源类型": "官方",
     "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
     "标签": [
       "Mistral",
       "海外AI",
-      "产品发布"
+      "企业方案"
     ],
     "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/search-toolkit"
+    "链接": "https://mistral.ai/news/ai-now-summit-2026/"
   },
   {
     "标题": "Product Vibe gets to work. The unified agent for long-horizon productivity and coding, launching with Work and Code modes. Plus, a new Vibe VS Code extension. May 28, 2026 Mistral",
@@ -716,23 +749,6 @@
     ],
     "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
     "链接": "https://mistral.ai/news/vibe-agent/"
-  },
-  {
-    "标题": "Company AI Now Summit 2026 Innovations for global enterprises solving the world’s hardest problems. May 28, 2026 Mistral",
-    "发布方": "Mistral",
-    "日期": "2026-06-23",
-    "地区": "海外",
-    "类型": "企业方案",
-    "来源": "Mistral News",
-    "来源类型": "官方",
-    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
-    "标签": [
-      "Mistral",
-      "海外AI",
-      "企业方案"
-    ],
-    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/ai-now-summit-2026/"
   },
   {
     "标题": "Product Introducing Search Toolkit Production search pipelines, anywhere. May 28, 2026 Mistral",
