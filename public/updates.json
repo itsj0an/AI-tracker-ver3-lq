@@ -221,6 +221,23 @@
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
   },
   {
+    "标题": "Google Wallet makes TSA PreCheck Touchless ID available for more travelers",
+    "发布方": "Google",
+    "日期": "2026-06-24",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/platforms/google-pay/google-wallet-tsa/"
+  },
+  {
     "标题": "Towards a world where no one is surprised by a natural disaster",
     "发布方": "Google",
     "日期": "2026-06-24",
@@ -426,23 +443,6 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/products-and-platforms/devices/google-nest/google-home-speaker-gemini-features/"
-  },
-  {
-    "标题": "Scaling the UK government’s AI vision",
-    "发布方": "Google",
-    "日期": "2026-06-24",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-cloud-summit-london-2026/"
   },
   {
     "标题": "FEATURED",
@@ -700,6 +700,23 @@
     "链接": "https://mistral.ai/news/voxtral-tts/"
   },
   {
+    "标题": "Bringing more control over your connectors",
+    "发布方": "Mistral",
+    "日期": "2026-06-24",
+    "地区": "海外",
+    "类型": "产品发布",
+    "来源": "Mistral News",
+    "来源类型": "官方",
+    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
+    "标签": [
+      "Mistral",
+      "海外AI",
+      "产品发布"
+    ],
+    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
+    "链接": "https://mistral.ai/news/more-control-over-connectors"
+  },
+  {
     "标题": "Introducing Mistral OCR 4",
     "发布方": "Mistral",
     "日期": "2026-06-24",
@@ -734,7 +751,7 @@
     "链接": "https://mistral.ai/news/ai-now-summit-2026"
   },
   {
-    "标题": "Vibe gets to work.",
+    "标题": "Engineering Bringing more control over your connectors June 24, 2026 Mistral AI",
     "发布方": "Mistral",
     "日期": "2026-06-24",
     "地区": "海外",
@@ -748,7 +765,7 @@
       "产品发布"
     ],
     "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/vibe-agent"
+    "链接": "https://mistral.ai/news/more-control-over-connectors/"
   },
   {
     "标题": "Company AI Now Summit 2026 Innovations for global enterprises solving the world’s hardest problems. May 28, 2026 Mistral",
@@ -868,22 +885,5 @@
     ],
     "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
     "链接": "https://mistral.ai/news/connectors/"
-  },
-  {
-    "标题": "Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI",
-    "发布方": "Mistral",
-    "日期": "2026-06-24",
-    "地区": "海外",
-    "类型": "产品发布",
-    "来源": "Mistral News",
-    "来源类型": "官方",
-    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
-    "标签": [
-      "Mistral",
-      "海外AI",
-      "产品发布"
-    ],
-    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/workflows/"
   }
 ]
