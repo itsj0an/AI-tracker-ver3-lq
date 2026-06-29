@@ -221,6 +221,58 @@
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
   },
   {
+    "标题": "Ask an AI expert: What exactly is the full stack?",
+    "发布方": "Google",
+    "日期": "2026-06-29",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/"
+  },
+  {
+    "标题": "Gemini can now take notes in Google Meet for Google AI Pro and Ultra subscribers.",
+    "发布方": "Google",
+    "日期": "2026-06-29",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/"
+  },
+  {
+    "标题": "Unlock deeper insights for YouTube brand campaigns.",
+    "发布方": "Google",
+    "日期": "2026-06-29",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products/ads-commerce/youtube-brand-campaign-updates/"
+  },
+  {
     "标题": "Here's how Gemini can help you avoid jetlag.",
     "发布方": "Google",
     "日期": "2026-06-29",
@@ -431,58 +483,6 @@
     "链接": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-play-updates-uk-developers/"
   },
   {
-    "标题": "Supporting students with connected AI tools for more personalized learning",
-    "发布方": "Google",
-    "日期": "2026-06-29",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/education/iste-students-2026/"
-  },
-  {
-    "标题": "Read our white paper on a pragmatic approach to AI governance in America.",
-    "发布方": "Google",
-    "日期": "2026-06-29",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/company-news/outreach-and-initiatives/public-policy/white-paper-ai-regulation/"
-  },
-  {
-    "标题": "Introducing computer use in Gemini 3.5 Flash",
-    "发布方": "Google",
-    "日期": "2026-06-29",
-    "地区": "海外",
-    "类型": "企业方案",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "企业方案"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/"
-  },
-  {
     "标题": "FEATURED",
     "发布方": "Meta",
     "日期": "2026-06-29",
@@ -534,23 +534,6 @@
     "链接": "https://ai.meta.com/blog/segment-anything-model-3/"
   },
   {
-    "标题": "FEATURED",
-    "发布方": "Meta",
-    "日期": "2026-06-29",
-    "地区": "海外",
-    "类型": "产品发布",
-    "来源": "Meta AI Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Meta 发布 AI 模型、研究或产品能力相关动态。",
-    "标签": [
-      "Meta",
-      "AI",
-      "产品发布"
-    ],
-    "追踪价值总结": "适合补充观察大厂在开源模型、多模态能力与 AI 应用方向上的推进。",
-    "链接": "https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/"
-  },
-  {
     "标题": "Learn More",
     "发布方": "Meta",
     "日期": "2026-06-29",
@@ -599,6 +582,23 @@
       "产品发布"
     ],
     "追踪价值总结": "适合补充观察大厂在开源模型、多模态能力与 AI 应用方向上的推进。",
+    "链接": "https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/"
+  },
+  {
+    "标题": "Learn More",
+    "发布方": "Meta",
+    "日期": "2026-06-29",
+    "地区": "海外",
+    "类型": "产品发布",
+    "来源": "Meta AI Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Meta 发布 AI 模型、研究或产品能力相关动态。",
+    "标签": [
+      "Meta",
+      "AI",
+      "产品发布"
+    ],
+    "追踪价值总结": "适合补充观察大厂在开源模型、多模态能力与 AI 应用方向上的推进。",
     "链接": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/"
   },
   {
@@ -617,57 +617,6 @@
     ],
     "追踪价值总结": "适合补充观察大厂在开源模型、多模态能力与 AI 应用方向上的推进。",
     "链接": "https://ai.meta.com/blog/forest-research-dino/"
-  },
-  {
-    "标题": "Learn More",
-    "发布方": "Meta",
-    "日期": "2026-06-29",
-    "地区": "海外",
-    "类型": "产品发布",
-    "来源": "Meta AI Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Meta 发布 AI 模型、研究或产品能力相关动态。",
-    "标签": [
-      "Meta",
-      "AI",
-      "产品发布"
-    ],
-    "追踪价值总结": "适合补充观察大厂在开源模型、多模态能力与 AI 应用方向上的推进。",
-    "链接": "https://ai.meta.com/blog/orakl-oncology-dinov2-accelerating-cancer-treatment/"
-  },
-  {
-    "标题": "Learn More",
-    "发布方": "Meta",
-    "日期": "2026-06-29",
-    "地区": "海外",
-    "类型": "产品发布",
-    "来源": "Meta AI Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Meta 发布 AI 模型、研究或产品能力相关动态。",
-    "标签": [
-      "Meta",
-      "AI",
-      "产品发布"
-    ],
-    "追踪价值总结": "适合补充观察大厂在开源模型、多模态能力与 AI 应用方向上的推进。",
-    "链接": "https://ai.meta.com/blog/usra-sam-flood-emergencies/"
-  },
-  {
-    "标题": "Learn More",
-    "发布方": "Meta",
-    "日期": "2026-06-29",
-    "地区": "海外",
-    "类型": "产品发布",
-    "来源": "Meta AI Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Meta 发布 AI 模型、研究或产品能力相关动态。",
-    "标签": [
-      "Meta",
-      "AI",
-      "产品发布"
-    ],
-    "追踪价值总结": "适合补充观察大厂在开源模型、多模态能力与 AI 应用方向上的推进。",
-    "链接": "https://ai.meta.com/blog/sam-audio/"
   },
   {
     "标题": "Mistral OCR 4",
