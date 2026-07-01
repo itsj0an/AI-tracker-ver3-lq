@@ -2,7 +2,7 @@
   {
     "标题": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5 Announcements Jun 12, 2026 The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5.",
     "发布方": "Anthropic",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -17,9 +17,43 @@
     "链接": "https://www.anthropic.com/news/fable-mythos-access"
   },
   {
+    "标题": "Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+    "发布方": "Anthropic",
+    "日期": "2026-07-01",
+    "地区": "海外",
+    "类型": "Agent",
+    "来源": "Anthropic Newsroom",
+    "来源类型": "官方",
+    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "标签": [
+      "Anthropic",
+      "Claude",
+      "Agent"
+    ],
+    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
+    "链接": "https://www.anthropic.com/news/claude-sonnet-5"
+  },
+  {
+    "标题": "Announcements Jun 30, 2026 Claude Science, an AI workbench for scientists, is now available Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+    "发布方": "Anthropic",
+    "日期": "2026-07-01",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Anthropic Newsroom",
+    "来源类型": "官方",
+    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "标签": [
+      "Anthropic",
+      "Claude",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
+    "链接": "https://www.anthropic.com/news/claude-science-ai-workbench"
+  },
+  {
     "标题": "Product Jun 23, 2026 Introducing Claude Tag Claude Tag is a new way for teams to work with Claude.",
     "发布方": "Anthropic",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -34,43 +68,9 @@
     "链接": "https://www.anthropic.com/news/introducing-claude-tag"
   },
   {
-    "标题": "Announcements Jun 11, 2026 Introducing Claude Corps We’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.",
-    "发布方": "Anthropic",
-    "日期": "2026-06-30",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Anthropic Newsroom",
-    "来源类型": "官方",
-    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
-    "标签": [
-      "Anthropic",
-      "Claude",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/claude-corps"
-  },
-  {
-    "标题": "Announcements Jun 2, 2026 Expanding Project Glasswing We’re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries.",
-    "发布方": "Anthropic",
-    "日期": "2026-06-30",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Anthropic Newsroom",
-    "来源类型": "官方",
-    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
-    "标签": [
-      "Anthropic",
-      "Claude",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/expanding-project-glasswing"
-  },
-  {
     "标题": "Product May 28, 2026 Introducing Claude Opus 4.8 An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
     "发布方": "Anthropic",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Anthropic Newsroom",
@@ -85,9 +85,26 @@
     "链接": "https://www.anthropic.com/news/claude-opus-4-8"
   },
   {
+    "标题": "Jun 30, 2026 Announcements Redeploying Fable 5",
+    "发布方": "Anthropic",
+    "日期": "2026-07-01",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Anthropic Newsroom",
+    "来源类型": "官方",
+    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "标签": [
+      "Anthropic",
+      "Claude",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
+    "链接": "https://www.anthropic.com/news/redeploying-fable-5"
+  },
+  {
     "标题": "Jun 17, 2026 Announcements Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
     "发布方": "Anthropic",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "企业方案",
     "来源": "Anthropic Newsroom",
@@ -104,7 +121,7 @@
   {
     "标题": "Jun 12, 2026 Announcements Results from the first Anthropic Public Record",
     "发布方": "Anthropic",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -121,7 +138,7 @@
   {
     "标题": "Jun 12, 2026 Announcements TCS and Anthropic partner to bring Claude to regulated industries",
     "发布方": "Anthropic",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -138,7 +155,7 @@
   {
     "标题": "Jun 11, 2026 Announcements DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
     "发布方": "Anthropic",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -153,9 +170,9 @@
     "链接": "https://www.anthropic.com/news/dxc-anthropic-alliance"
   },
   {
-    "标题": "Jun 9, 2026 Announcements Claude Fable 5 and Claude Mythos 5",
+    "标题": "Jun 11, 2026 Announcements Introducing Claude Corps",
     "发布方": "Anthropic",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -167,46 +184,12 @@
       "模型升级"
     ],
     "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
-  },
-  {
-    "标题": "Jun 3, 2026 Announcements Introducing the Services Track and Partner Hub of the Claude Partner Network",
-    "发布方": "Anthropic",
-    "日期": "2026-06-30",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Anthropic Newsroom",
-    "来源类型": "官方",
-    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
-    "标签": [
-      "Anthropic",
-      "Claude",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/services-track-partner-hub"
-  },
-  {
-    "标题": "Jun 3, 2026 Policy What we learned mapping a year’s worth of AI-enabled cyber threats",
-    "发布方": "Anthropic",
-    "日期": "2026-06-30",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Anthropic Newsroom",
-    "来源类型": "官方",
-    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
-    "标签": [
-      "Anthropic",
-      "Claude",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack"
+    "链接": "https://www.anthropic.com/news/claude-corps"
   },
   {
     "标题": "Responsible Scaling Policy",
     "发布方": "Anthropic",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -221,9 +204,62 @@
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
   },
   {
+    "标题": "Gemini Spark updates: macOS launch, connected apps and more",
+    "发布方": "Google",
+    "日期": "2026-07-01",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/"
+  },
+  {
+    "标题": "Read our 11th annual Environmental Report",
+    "发布方": "Google",
+    "日期": "2026-07-01",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/company-news/outreach-and-initiatives/sustainability/2026-environmental-report/"
+  },
+  {
+    "标题": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+    "发布方": "Google",
+    "日期": "2026-07-01",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/"
+  },
+  {
     "标题": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
     "发布方": "Google",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -241,7 +277,7 @@
   {
     "标题": "The Gemini app is bringing personalized image creation to more users.",
     "发布方": "Google",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -259,7 +295,7 @@
   {
     "标题": "Ask an AI expert: What exactly is the full stack?",
     "发布方": "Google",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -276,7 +312,7 @@
   {
     "标题": "Gemini can now take notes in Google Meet for Google AI Pro and Ultra subscribers.",
     "发布方": "Google",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -294,7 +330,7 @@
   {
     "标题": "Unlock deeper insights for YouTube brand campaigns.",
     "发布方": "Google",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -311,7 +347,7 @@
   {
     "标题": "Here's how Gemini can help you avoid jetlag.",
     "发布方": "Google",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -329,7 +365,7 @@
   {
     "标题": "Investing in Ukraine’s AI leadership and economic future",
     "发布方": "Google",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -346,7 +382,7 @@
   {
     "标题": "Try these 3 Google AI tools to help find your next job.",
     "发布方": "Google",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -364,7 +400,7 @@
   {
     "标题": "5 ways Google parents are using Gemini",
     "发布方": "Google",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -382,7 +418,7 @@
   {
     "标题": "Building AI tailored for education, with educators in the lead",
     "发布方": "Google",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -397,27 +433,9 @@
     "链接": "https://blog.google/products-and-platforms/products/education/iste-2026-educator-updates/"
   },
   {
-    "标题": "How a Kentucky school district is scaling writing feedback with Gemini",
-    "发布方": "Google",
-    "日期": "2026-06-30",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/education/henry-county-public-schools/"
-  },
-  {
     "标题": "ISTE 2026: Supporting teaching and learning with connected AI tools",
     "发布方": "Google",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -432,43 +450,9 @@
     "链接": "https://blog.google/products-and-platforms/products/education/collection-iste-june-2026/"
   },
   {
-    "标题": "Elevate your campaign performance with June’s Demand Gen Drop.",
-    "发布方": "Google",
-    "日期": "2026-06-30",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products/ads-commerce/demand-gen-drop-june-2026/"
-  },
-  {
-    "标题": "Google.org is funding three long-term partners on education and AI.",
-    "发布方": "Google",
-    "日期": "2026-06-30",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/company-news/outreach-and-initiatives/google-org/education-ai-funding/"
-  },
-  {
     "标题": "5 ways to learn with study notebooks in the Gemini app",
     "发布方": "Google",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -486,7 +470,7 @@
   {
     "标题": "FEATURED",
     "发布方": "Meta",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -503,7 +487,7 @@
   {
     "标题": "FEATURED",
     "发布方": "Meta",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -520,7 +504,7 @@
   {
     "标题": "FEATURED",
     "发布方": "Meta",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -537,7 +521,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -554,7 +538,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -571,7 +555,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -588,7 +572,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -605,7 +589,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -620,9 +604,43 @@
     "链接": "https://ai.meta.com/blog/forest-research-dino/"
   },
   {
+    "标题": "Learn More",
+    "发布方": "Meta",
+    "日期": "2026-07-01",
+    "地区": "海外",
+    "类型": "产品发布",
+    "来源": "Meta AI Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Meta 发布 AI 模型、研究或产品能力相关动态。",
+    "标签": [
+      "Meta",
+      "AI",
+      "产品发布"
+    ],
+    "追踪价值总结": "适合补充观察大厂在开源模型、多模态能力与 AI 应用方向上的推进。",
+    "链接": "https://ai.meta.com/blog/orakl-oncology-dinov2-accelerating-cancer-treatment/"
+  },
+  {
+    "标题": "Learn More",
+    "发布方": "Meta",
+    "日期": "2026-07-01",
+    "地区": "海外",
+    "类型": "产品发布",
+    "来源": "Meta AI Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Meta 发布 AI 模型、研究或产品能力相关动态。",
+    "标签": [
+      "Meta",
+      "AI",
+      "产品发布"
+    ],
+    "追踪价值总结": "适合补充观察大厂在开源模型、多模态能力与 AI 应用方向上的推进。",
+    "链接": "https://ai.meta.com/blog/usra-sam-flood-emergencies/"
+  },
+  {
     "标题": "Mistral OCR 4",
     "发布方": "Mistral",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Mistral News",
@@ -639,7 +657,7 @@
   {
     "标题": "Mistral Medium 3.5",
     "发布方": "Mistral",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Mistral News",
@@ -656,7 +674,7 @@
   {
     "标题": "Mistral Small 4",
     "发布方": "Mistral",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Mistral News",
@@ -673,7 +691,7 @@
   {
     "标题": "Voxtral TTS",
     "发布方": "Mistral",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Mistral News",
@@ -690,7 +708,7 @@
   {
     "标题": "Bringing more control over your connectors",
     "发布方": "Mistral",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Mistral News",
@@ -707,7 +725,7 @@
   {
     "标题": "Introducing Mistral OCR 4",
     "发布方": "Mistral",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Mistral News",
@@ -724,7 +742,7 @@
   {
     "标题": "AI Now Summit 2026",
     "发布方": "Mistral",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Mistral News",
@@ -741,7 +759,7 @@
   {
     "标题": "Engineering Bringing more control over your connectors June 24, 2026 Mistral AI",
     "发布方": "Mistral",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Mistral News",
@@ -758,7 +776,7 @@
   {
     "标题": "Company AI Now Summit 2026 Innovations for global enterprises solving the world’s hardest problems. May 28, 2026 Mistral",
     "发布方": "Mistral",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "企业方案",
     "来源": "Mistral News",
@@ -775,7 +793,7 @@
   {
     "标题": "Product Vibe gets to work. The unified agent for long-horizon productivity and coding, launching with Work and Code modes. Plus, a new Vibe VS Code extension. May 28, 2026 Mistral",
     "发布方": "Mistral",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Mistral News",
@@ -792,7 +810,7 @@
   {
     "标题": "Product Introducing Search Toolkit Production search pipelines, anywhere. May 28, 2026 Mistral",
     "发布方": "Mistral",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Mistral News",
@@ -809,7 +827,7 @@
   {
     "标题": "Solutions Introducing physics AI at Mistral: the foundation for engineering acceleration. A new class of AI models that predict the behavior of physical systems, powering the engineers and hardware products of tomorrow. May 27, 2026 Mistral",
     "发布方": "Mistral",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Mistral News",
@@ -826,7 +844,7 @@
   {
     "标题": "Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 Mistral",
     "发布方": "Mistral",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "开发者工具",
     "来源": "Mistral News",
@@ -843,7 +861,7 @@
   {
     "标题": "Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI",
     "发布方": "Mistral",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Mistral News",
@@ -860,7 +878,7 @@
   {
     "标题": "Product Connect the dots: Build with built-in and custom MCPs in Studio Connect enterprise data to your AI applications with reusable connectors, direct tool calling, and human-in-the-loop approval controls. May 22, 2026 Mistral AI",
     "发布方": "Mistral",
-    "日期": "2026-06-30",
+    "日期": "2026-07-01",
     "地区": "海外",
     "类型": "企业方案",
     "来源": "Mistral News",
