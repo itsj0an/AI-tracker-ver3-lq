@@ -671,6 +671,23 @@
     "链接": "https://mistral.ai/news/voxtral-tts/"
   },
   {
+    "标题": "Leanstral 1.5: Proof Abundance for All",
+    "发布方": "Mistral",
+    "日期": "2026-07-03",
+    "地区": "海外",
+    "类型": "产品发布",
+    "来源": "Mistral News",
+    "来源类型": "官方",
+    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
+    "标签": [
+      "Mistral",
+      "海外AI",
+      "产品发布"
+    ],
+    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
+    "链接": "https://mistral.ai/news/leanstral-1-5"
+  },
+  {
     "标题": "Bringing more control over your connectors",
     "发布方": "Mistral",
     "日期": "2026-07-03",
@@ -705,7 +722,7 @@
     "链接": "https://mistral.ai/news/ocr-4"
   },
   {
-    "标题": "AI Now Summit 2026",
+    "标题": "Research Leanstral 1.5: Proof Abundance for All July 2, 2026 Leanstral Team at Mistral AI",
     "发布方": "Mistral",
     "日期": "2026-07-03",
     "地区": "海外",
@@ -719,7 +736,7 @@
       "产品发布"
     ],
     "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/ai-now-summit-2026"
+    "链接": "https://mistral.ai/news/leanstral-1-5/"
   },
   {
     "标题": "Engineering Bringing more control over your connectors June 24, 2026 Mistral AI",
@@ -839,22 +856,5 @@
     ],
     "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
     "链接": "https://mistral.ai/news/accelerate-ai-native-industry/"
-  },
-  {
-    "标题": "Product Connect the dots: Build with built-in and custom MCPs in Studio Connect enterprise data to your AI applications with reusable connectors, direct tool calling, and human-in-the-loop approval controls. May 22, 2026 Mistral AI",
-    "发布方": "Mistral",
-    "日期": "2026-07-03",
-    "地区": "海外",
-    "类型": "企业方案",
-    "来源": "Mistral News",
-    "来源类型": "官方",
-    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
-    "标签": [
-      "Mistral",
-      "海外AI",
-      "企业方案"
-    ],
-    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/connectors/"
   }
 ]
