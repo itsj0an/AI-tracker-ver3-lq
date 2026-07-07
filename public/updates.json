@@ -1,6 +1,6 @@
 [
   {
-    "标题": "Redeploying Fable 5 Announcements Jun 30, 2026 Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+    "标题": "Announcements Jun 30, 2026 Redeploying Fable 5 Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
     "发布方": "Anthropic",
     "日期": "2026-07-07",
     "地区": "海外",
@@ -584,23 +584,6 @@
     ],
     "追踪价值总结": "适合补充观察大厂在开源模型、多模态能力与 AI 应用方向上的推进。",
     "链接": "https://ai.meta.com/blog/forest-research-dino/"
-  },
-  {
-    "标题": "Learn More",
-    "发布方": "Meta",
-    "日期": "2026-07-07",
-    "地区": "海外",
-    "类型": "产品发布",
-    "来源": "Meta AI Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Meta 发布 AI 模型、研究或产品能力相关动态。",
-    "标签": [
-      "Meta",
-      "AI",
-      "产品发布"
-    ],
-    "追踪价值总结": "适合补充观察大厂在开源模型、多模态能力与 AI 应用方向上的推进。",
-    "链接": "https://ai.meta.com/blog/orakl-oncology-dinov2-accelerating-cancer-treatment/"
   },
   {
     "标题": "Mistral OCR 4",
