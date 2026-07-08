@@ -379,23 +379,6 @@
     "链接": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana-us-expansion/"
   },
   {
-    "标题": "Ask an AI expert: What exactly is the full stack?",
-    "发布方": "Google",
-    "日期": "2026-07-08",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/"
-  },
-  {
     "标题": "Gemini can now take notes in Google Meet for Google AI Pro and Ultra subscribers.",
     "发布方": "Google",
     "日期": "2026-07-08",
@@ -412,6 +395,23 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/"
+  },
+  {
+    "标题": "Ask an AI expert: What exactly is the full stack?",
+    "发布方": "Google",
+    "日期": "2026-07-08",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/"
   },
   {
     "标题": "Unlock deeper insights for YouTube brand campaigns.",
@@ -602,6 +602,23 @@
     "链接": "https://mistral.ai/news/voxtral-tts/"
   },
   {
+    "标题": "Introducing Robostral Navigate",
+    "发布方": "Mistral",
+    "日期": "2026-07-08",
+    "地区": "海外",
+    "类型": "产品发布",
+    "来源": "Mistral News",
+    "来源类型": "官方",
+    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
+    "标签": [
+      "Mistral",
+      "海外AI",
+      "产品发布"
+    ],
+    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
+    "链接": "https://mistral.ai/news/robostral-navigate"
+  },
+  {
     "标题": "Leanstral 1.5: Proof Abundance for All",
     "发布方": "Mistral",
     "日期": "2026-07-08",
@@ -636,21 +653,21 @@
     "链接": "https://mistral.ai/news/more-control-over-connectors"
   },
   {
-    "标题": "Introducing Mistral OCR 4",
+    "标题": "Research Introducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 7, 2026 Mistral AI",
     "发布方": "Mistral",
     "日期": "2026-07-08",
     "地区": "海外",
-    "类型": "产品发布",
+    "类型": "模型升级",
     "来源": "Mistral News",
     "来源类型": "官方",
     "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
     "标签": [
       "Mistral",
       "海外AI",
-      "产品发布"
+      "模型升级"
     ],
     "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/ocr-4"
+    "链接": "https://mistral.ai/news/robostral-navigate/"
   },
   {
     "标题": "Research Leanstral 1.5: Proof Abundance for All July 2, 2026 Leanstral Team at Mistral AI",
@@ -770,22 +787,5 @@
     ],
     "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
     "链接": "https://mistral.ai/news/physics-ai-research/"
-  },
-  {
-    "标题": "Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI",
-    "发布方": "Mistral",
-    "日期": "2026-07-08",
-    "地区": "海外",
-    "类型": "产品发布",
-    "来源": "Mistral News",
-    "来源类型": "官方",
-    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
-    "标签": [
-      "Mistral",
-      "海外AI",
-      "产品发布"
-    ],
-    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/accelerate-ai-native-industry/"
   }
 ]
