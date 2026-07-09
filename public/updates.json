@@ -68,6 +68,23 @@
     "链接": "https://www.anthropic.com/news/introducing-claude-tag"
   },
   {
+    "标题": "Jul 9, 2026 Announcements Introducing a way to reflect on how you use Claude",
+    "发布方": "Anthropic",
+    "日期": "2026-07-09",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Anthropic Newsroom",
+    "来源类型": "官方",
+    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "标签": [
+      "Anthropic",
+      "Claude",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
+    "链接": "https://www.anthropic.com/news/reflect-with-claude"
+  },
+  {
     "标题": "Jul 6, 2026 Case Study Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
     "发布方": "Anthropic",
     "日期": "2026-07-09",
@@ -153,23 +170,6 @@
     "链接": "https://www.anthropic.com/news/anthropic-public-record"
   },
   {
-    "标题": "Jun 12, 2026 Announcements TCS and Anthropic partner to bring Claude to regulated industries",
-    "发布方": "Anthropic",
-    "日期": "2026-07-09",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Anthropic Newsroom",
-    "来源类型": "官方",
-    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
-    "标签": [
-      "Anthropic",
-      "Claude",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/tcs-anthropic-partnership"
-  },
-  {
     "标题": "Responsible Scaling Policy",
     "发布方": "Anthropic",
     "日期": "2026-07-09",
@@ -185,6 +185,23 @@
     ],
     "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
+  },
+  {
+    "标题": "Expanding AI transparency in ads",
+    "发布方": "Google",
+    "日期": "2026-07-09",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/"
   },
   {
     "标题": "3 ways this coffee shop is growing with Gemini",
@@ -397,56 +414,21 @@
     "链接": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana-us-expansion/"
   },
   {
-    "标题": "Ask an AI expert: What exactly is the full stack?",
-    "发布方": "Google",
+    "标题": "FEATURED",
+    "发布方": "Meta",
     "日期": "2026-07-09",
     "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
+    "类型": "产品发布",
+    "来源": "Meta AI Blog",
     "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "一句话摘要": "Meta 发布 AI 模型、研究或产品能力相关动态。",
     "标签": [
-      "Google",
+      "Meta",
       "AI",
-      "模型升级"
+      "产品发布"
     ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/"
-  },
-  {
-    "标题": "Gemini can now take notes in Google Meet for Google AI Pro and Ultra subscribers.",
-    "发布方": "Google",
-    "日期": "2026-07-09",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/"
-  },
-  {
-    "标题": "Unlock deeper insights for YouTube brand campaigns.",
-    "发布方": "Google",
-    "日期": "2026-07-09",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products/ads-commerce/youtube-brand-campaign-updates/"
+    "追踪价值总结": "适合补充观察大厂在开源模型、多模态能力与 AI 应用方向上的推进。",
+    "链接": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/"
   },
   {
     "标题": "FEATURED",
@@ -517,74 +499,6 @@
     "链接": "https://ai.meta.com/blog/tribe-v2-brain-predictive-foundation-model/"
   },
   {
-    "标题": "Learn More",
-    "发布方": "Meta",
-    "日期": "2026-07-09",
-    "地区": "海外",
-    "类型": "产品发布",
-    "来源": "Meta AI Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Meta 发布 AI 模型、研究或产品能力相关动态。",
-    "标签": [
-      "Meta",
-      "AI",
-      "产品发布"
-    ],
-    "追踪价值总结": "适合补充观察大厂在开源模型、多模态能力与 AI 应用方向上的推进。",
-    "链接": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/"
-  },
-  {
-    "标题": "Learn More",
-    "发布方": "Meta",
-    "日期": "2026-07-09",
-    "地区": "海外",
-    "类型": "产品发布",
-    "来源": "Meta AI Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Meta 发布 AI 模型、研究或产品能力相关动态。",
-    "标签": [
-      "Meta",
-      "AI",
-      "产品发布"
-    ],
-    "追踪价值总结": "适合补充观察大厂在开源模型、多模态能力与 AI 应用方向上的推进。",
-    "链接": "https://ai.meta.com/blog/segment-anything-model-3/"
-  },
-  {
-    "标题": "Learn More",
-    "发布方": "Meta",
-    "日期": "2026-07-09",
-    "地区": "海外",
-    "类型": "产品发布",
-    "来源": "Meta AI Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Meta 发布 AI 模型、研究或产品能力相关动态。",
-    "标签": [
-      "Meta",
-      "AI",
-      "产品发布"
-    ],
-    "追踪价值总结": "适合补充观察大厂在开源模型、多模态能力与 AI 应用方向上的推进。",
-    "链接": "https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/"
-  },
-  {
-    "标题": "Learn More",
-    "发布方": "Meta",
-    "日期": "2026-07-09",
-    "地区": "海外",
-    "类型": "产品发布",
-    "来源": "Meta AI Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Meta 发布 AI 模型、研究或产品能力相关动态。",
-    "标签": [
-      "Meta",
-      "AI",
-      "产品发布"
-    ],
-    "追踪价值总结": "适合补充观察大厂在开源模型、多模态能力与 AI 应用方向上的推进。",
-    "链接": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/"
-  },
-  {
     "标题": "Mistral OCR 4",
     "发布方": "Mistral",
     "日期": "2026-07-09",
@@ -653,6 +567,23 @@
     "链接": "https://mistral.ai/news/voxtral-tts/"
   },
   {
+    "标题": "Your Prompts and Skills need a system of record.",
+    "发布方": "Mistral",
+    "日期": "2026-07-09",
+    "地区": "海外",
+    "类型": "产品发布",
+    "来源": "Mistral News",
+    "来源类型": "官方",
+    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
+    "标签": [
+      "Mistral",
+      "海外AI",
+      "产品发布"
+    ],
+    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
+    "链接": "https://mistral.ai/news/manage-prompts-and-skills-in-studio"
+  },
+  {
     "标题": "Introducing Robostral Navigate",
     "发布方": "Mistral",
     "日期": "2026-07-09",
@@ -687,23 +618,6 @@
     "链接": "https://mistral.ai/news/leanstral-1-5"
   },
   {
-    "标题": "Bringing more control over your connectors",
-    "发布方": "Mistral",
-    "日期": "2026-07-09",
-    "地区": "海外",
-    "类型": "产品发布",
-    "来源": "Mistral News",
-    "来源类型": "官方",
-    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
-    "标签": [
-      "Mistral",
-      "海外AI",
-      "产品发布"
-    ],
-    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/more-control-over-connectors"
-  },
-  {
     "标题": "Research Introducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026 By Mistral AI",
     "发布方": "Mistral",
     "日期": "2026-07-09",
@@ -719,6 +633,23 @@
     ],
     "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
     "链接": "https://mistral.ai/news/robostral-navigate/"
+  },
+  {
+    "标题": "Product Your Prompts and Skills need a system of record. Studio gives AI prompts & skills a system of record—versioned, owned, and traceable. July 9, 2026 By Mistral",
+    "发布方": "Mistral",
+    "日期": "2026-07-09",
+    "地区": "海外",
+    "类型": "产品发布",
+    "来源": "Mistral News",
+    "来源类型": "官方",
+    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
+    "标签": [
+      "Mistral",
+      "海外AI",
+      "产品发布"
+    ],
+    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
+    "链接": "https://mistral.ai/news/manage-prompts-and-skills-in-studio/"
   },
   {
     "标题": "Research Leanstral 1.5: Proof Abundance for All July 2, 2026 By Leanstral Team at Mistral AI",
@@ -821,22 +752,5 @@
     ],
     "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
     "链接": "https://mistral.ai/news/introducing-physics-ai-at-mistral/"
-  },
-  {
-    "标题": "Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 By Mistral",
-    "发布方": "Mistral",
-    "日期": "2026-07-09",
-    "地区": "海外",
-    "类型": "开发者工具",
-    "来源": "Mistral News",
-    "来源类型": "官方",
-    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
-    "标签": [
-      "Mistral",
-      "海外AI",
-      "开发者工具"
-    ],
-    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/physics-ai-research/"
   }
 ]
