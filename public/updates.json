@@ -238,6 +238,24 @@
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
   },
   {
+    "标题": "Gemini for macOS adds new natural language capabilities",
+    "发布方": "Google",
+    "日期": "2026-07-29",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/products/gemini-app/speak-naturally-gemini-app-mac-os/"
+  },
+  {
     "标题": "How Gemini Flash agents are helping a Michigan dairy farmer",
     "发布方": "Google",
     "日期": "2026-07-29",
@@ -481,24 +499,6 @@
     "链接": "https://blog.google/products-and-platforms/products/education/summer-productivity-tips-google-ai-tools/"
   },
   {
-    "标题": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-    "发布方": "Google",
-    "日期": "2026-07-29",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/"
-  },
-  {
     "标题": "FEATURED",
     "发布方": "Meta",
     "日期": "2026-07-29",
@@ -599,6 +599,23 @@
     ],
     "追踪价值总结": "适合补充观察大厂在开源模型、多模态能力与 AI 应用方向上的推进。",
     "链接": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/"
+  },
+  {
+    "标题": "Learn More",
+    "发布方": "Meta",
+    "日期": "2026-07-29",
+    "地区": "海外",
+    "类型": "产品发布",
+    "来源": "Meta AI Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Meta 发布 AI 模型、研究或产品能力相关动态。",
+    "标签": [
+      "Meta",
+      "AI",
+      "产品发布"
+    ],
+    "追踪价值总结": "适合补充观察大厂在开源模型、多模态能力与 AI 应用方向上的推进。",
+    "链接": "https://ai.meta.com/blog/alta-daily-fashion-app-segment-anything/"
   },
   {
     "标题": "Mistral OCR 4",
