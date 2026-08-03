@@ -68,7 +68,7 @@
     "链接": "https://www.anthropic.com/news/claude-sonnet-5"
   },
   {
-    "标题": "Jul 30, 2026 Frontier Red Team Investigating three real-world incidents in our cybersecurity evaluations",
+    "标题": "Jul 30, 2026 Investigating three real-world incidents in our cybersecurity evaluations",
     "发布方": "Anthropic",
     "日期": "2026-08-03",
     "地区": "海外",
@@ -236,6 +236,23 @@
     ],
     "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
+  },
+  {
+    "标题": "Inside our 353,000-person vibe coding course",
+    "发布方": "Google",
+    "日期": "2026-08-03",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"
   },
   {
     "标题": "Find out what’s new in the Gemini app in July's Gemini Drop.",
@@ -429,23 +446,6 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/innovation-and-ai/models-and-research/google-labs/ai-startup-support-program-japan/"
-  },
-  {
-    "标题": "Google is signing the EU AI Act Code of Practice on Transparency of AI-Generated Content.",
-    "发布方": "Google",
-    "日期": "2026-08-03",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/company-news/outreach-and-initiatives/public-policy/eu-ai-act-transparency-code-of-practice/"
   },
   {
     "标题": "FEATURED",
