@@ -238,6 +238,23 @@
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
   },
   {
+    "标题": "The latest AI news we announced in July 2026",
+    "发布方": "Google",
+    "日期": "2026-08-04",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/"
+  },
+  {
     "标题": "Welcome to Sail Tower, our newest Austin office",
     "发布方": "Google",
     "日期": "2026-08-04",
@@ -379,24 +396,6 @@
     "链接": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/using-gemini-to-manage-farm/"
   },
   {
-    "标题": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-    "发布方": "Google",
-    "日期": "2026-08-04",
-    "地区": "海外",
-    "类型": "Agent",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "Agent"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"
-  },
-  {
     "标题": "3 new ways nonprofits can put AI to work",
     "发布方": "Google",
     "日期": "2026-08-04",
@@ -414,21 +413,22 @@
     "链接": "https://blog.google/company-news/outreach-and-initiatives/google-org/nonprofits-ai-tools-training/"
   },
   {
-    "标题": "5 ways AI Mode in Search helps you enjoy the real world",
+    "标题": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
     "发布方": "Google",
     "日期": "2026-08-04",
     "地区": "海外",
-    "类型": "模型升级",
+    "类型": "Agent",
     "来源": "Google Blog",
     "来源类型": "官方",
     "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
     "标签": [
       "Google",
       "AI",
-      "模型升级"
+      "Gemini",
+      "Agent"
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/"
+    "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"
   },
   {
     "标题": "5 ways to host the ultimate dinner party with Google Search",
@@ -448,7 +448,7 @@
     "链接": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/"
   },
   {
-    "标题": "Google and KDDI are ready to back Japanese startups.",
+    "标题": "5 ways AI Mode in Search helps you enjoy the real world",
     "发布方": "Google",
     "日期": "2026-08-04",
     "地区": "海外",
@@ -462,7 +462,7 @@
       "模型升级"
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-labs/ai-startup-support-program-japan/"
+    "链接": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/"
   },
   {
     "标题": "FEATURED",
@@ -652,6 +652,23 @@
     "链接": "https://mistral.ai/news/voxtral-tts/"
   },
   {
+    "标题": "Introducing Shieldstral.",
+    "发布方": "Mistral",
+    "日期": "2026-08-04",
+    "地区": "海外",
+    "类型": "产品发布",
+    "来源": "Mistral News",
+    "来源类型": "官方",
+    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
+    "标签": [
+      "Mistral",
+      "海外AI",
+      "产品发布"
+    ],
+    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
+    "链接": "https://mistral.ai/news/shieldstral"
+  },
+  {
     "标题": "Your Prompts and Skills need a system of record.",
     "发布方": "Mistral",
     "日期": "2026-08-04",
@@ -686,7 +703,7 @@
     "链接": "https://mistral.ai/news/robostral-navigate"
   },
   {
-    "标题": "Leanstral 1.5: Proof Abundance for All",
+    "标题": "Solutions Introducing Shieldstral. August 4, 2026 By Mistral",
     "发布方": "Mistral",
     "日期": "2026-08-04",
     "地区": "海外",
@@ -700,24 +717,7 @@
       "产品发布"
     ],
     "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/leanstral-1-5"
-  },
-  {
-    "标题": "Research Introducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026 By Mistral AI",
-    "发布方": "Mistral",
-    "日期": "2026-08-04",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Mistral News",
-    "来源类型": "官方",
-    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
-    "标签": [
-      "Mistral",
-      "海外AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/robostral-navigate/"
+    "链接": "https://mistral.ai/news/shieldstral/"
   },
   {
     "标题": "Product Your Prompts and Skills need a system of record. Studio gives AI prompts & skills a system of record—versioned, owned, and traceable. July 9, 2026 By Mistral",
@@ -735,6 +735,23 @@
     ],
     "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
     "链接": "https://mistral.ai/news/manage-prompts-and-skills-in-studio/"
+  },
+  {
+    "标题": "Research Introducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026 By Mistral AI",
+    "发布方": "Mistral",
+    "日期": "2026-08-04",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Mistral News",
+    "来源类型": "官方",
+    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
+    "标签": [
+      "Mistral",
+      "海外AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
+    "链接": "https://mistral.ai/news/robostral-navigate/"
   },
   {
     "标题": "Research Leanstral 1.5: Proof Abundance for All July 2, 2026 By Leanstral Team at Mistral AI",
@@ -820,22 +837,5 @@
     ],
     "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
     "链接": "https://mistral.ai/news/search-toolkit/"
-  },
-  {
-    "标题": "Solutions Introducing physics AI at Mistral: the foundation for engineering acceleration. A new class of AI models that predict the behavior of physical systems, powering the engineers and hardware products of tomorrow. May 27, 2026 By Mistral",
-    "发布方": "Mistral",
-    "日期": "2026-08-04",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Mistral News",
-    "来源类型": "官方",
-    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
-    "标签": [
-      "Mistral",
-      "海外AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/introducing-physics-ai-at-mistral/"
   }
 ]
