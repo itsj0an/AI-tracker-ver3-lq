@@ -8,18 +8,23 @@ interface FilterBarProps {
   setSelectedRegion: (region: string) => void
   selectedType: string
   setSelectedType: (type: string) => void
+  selectedTimeRange: string
+  setSelectedTimeRange: (range: string) => void
   searchQuery: string
   setSearchQuery: (query: string) => void
 }
 
 const regions = ["全部", "海外", "国内"]
-const types = ["全部", "产品发布", "功能更新", "技术突破", "战略合作", "融资动态", "政策法规"]
+const types = ["全部", "产品发布", "功能更新", "模型升级", "技术突破", "战略合作", "融资动态", "融资合作", "政策法规", "企业方案", "开源项目", "研究动态", "开发者工具"]
+const timeRanges = ["全部", "最近7天", "最近30天", "最近90天", "最近半年"]
 
 export function FilterBar({
   selectedRegion,
   setSelectedRegion,
   selectedType,
   setSelectedType,
+  selectedTimeRange,
+  setSelectedTimeRange,
   searchQuery,
   setSearchQuery,
 }: FilterBarProps) {
@@ -58,6 +63,21 @@ export function FilterBar({
                 className="h-7 px-3 text-xs"
               >
                 {type}
+              </Button>
+            ))}
+          </div>
+
+          <div className="flex flex-wrap gap-2">
+            <span className="text-sm text-muted-foreground">时间：</span>
+            {timeRanges.map((range) => (
+              <Button
+                key={range}
+                variant={selectedTimeRange === range ? "default" : "outline"}
+                size="sm"
+                onClick={() => setSelectedTimeRange(range)}
+                className="h-7 px-3 text-xs"
+              >
+                {range}
               </Button>
             ))}
           </div>
