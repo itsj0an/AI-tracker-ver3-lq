@@ -238,6 +238,24 @@
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
   },
   {
+    "标题": "Get closer to the game with Gemini and Pixel",
+    "发布方": "Google",
+    "日期": "2026-08-17",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/"
+  },
+  {
     "标题": "Introducing Gemini 3.7 Flash",
     "发布方": "Google",
     "日期": "2026-08-17",
@@ -272,23 +290,6 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-experts-roundtable/"
-  },
-  {
-    "标题": "Google’s most sophisticated foldable: Pixel 11 Pro Fold",
-    "发布方": "Google",
-    "日期": "2026-08-17",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/"
   },
   {
     "标题": "The Pixel 11 series: Your most personal Pixel yet",
@@ -327,24 +328,6 @@
     "链接": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/"
   },
   {
-    "标题": "7 can’t-miss updates from our Pixel 11 launch",
-    "发布方": "Google",
-    "日期": "2026-08-17",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/"
-  },
-  {
     "标题": "Now you can connect even more of your favorite apps and services to Gemini.",
     "发布方": "Google",
     "日期": "2026-08-17",
@@ -361,6 +344,41 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/"
+  },
+  {
+    "标题": "Google’s most sophisticated foldable: Pixel 11 Pro Fold",
+    "发布方": "Google",
+    "日期": "2026-08-17",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/"
+  },
+  {
+    "标题": "7 can’t-miss updates from our Pixel 11 launch",
+    "发布方": "Google",
+    "日期": "2026-08-17",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/"
   },
   {
     "标题": "FEATURED",
