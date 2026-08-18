@@ -238,6 +238,23 @@
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
   },
   {
+    "标题": "Operation Blue Skies: Reducing aviation climate impact with AI",
+    "发布方": "Google",
+    "日期": "2026-08-18",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies/"
+  },
+  {
     "标题": "Get closer to the game with Gemini and Pixel",
     "发布方": "Google",
     "日期": "2026-08-18",
@@ -292,7 +309,7 @@
     "链接": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-experts-roundtable/"
   },
   {
-    "标题": "The Pixel 11 series: Your most personal Pixel yet",
+    "标题": "7 can’t-miss updates from our Pixel 11 launch",
     "发布方": "Google",
     "日期": "2026-08-18",
     "地区": "海外",
@@ -307,25 +324,7 @@
       "模型升级"
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/"
-  },
-  {
-    "标题": "Pixel Watch 5: Proactive assistance and advanced health tracking on your wrist",
-    "发布方": "Google",
-    "日期": "2026-08-18",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/"
+    "链接": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/"
   },
   {
     "标题": "Now you can connect even more of your favorite apps and services to Gemini.",
@@ -363,7 +362,7 @@
     "链接": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/"
   },
   {
-    "标题": "7 can’t-miss updates from our Pixel 11 launch",
+    "标题": "Pixel Watch 5: Proactive assistance and advanced health tracking on your wrist",
     "发布方": "Google",
     "日期": "2026-08-18",
     "地区": "海外",
@@ -378,7 +377,25 @@
       "模型升级"
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/"
+    "链接": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/"
+  },
+  {
+    "标题": "The Pixel 11 series: Your most personal Pixel yet",
+    "发布方": "Google",
+    "日期": "2026-08-18",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/"
   },
   {
     "标题": "FEATURED",
