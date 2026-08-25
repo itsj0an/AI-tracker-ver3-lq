@@ -204,7 +204,7 @@
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
   },
   {
-    "标题": "Celebrate 110 years of national parks with Maps, Search, and Gemini",
+    "标题": "We’re partnering with the State of Delaware to provide free AI and career training.",
     "发布方": "Google",
     "日期": "2026-08-25",
     "地区": "海外",
@@ -215,11 +215,10 @@
     "标签": [
       "Google",
       "AI",
-      "Gemini",
       "模型升级"
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/maps/national-parks-week-google-2026/"
+    "链接": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-delaware/"
   },
   {
     "标题": "How developers build AI for good with Gemma 4",
@@ -237,6 +236,24 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/winning-entries-gemma-4-good-challenge/"
+  },
+  {
+    "标题": "Celebrate 110 years of national parks with Maps, Search, and Gemini",
+    "发布方": "Google",
+    "日期": "2026-08-25",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/maps/national-parks-week-google-2026/"
   },
   {
     "标题": "What does “full-stack” AI actually mean?",
@@ -379,24 +396,6 @@
     "链接": "https://blog.google/innovation-and-ai/products/gemini-app/four-new-interactive-bts-experiences/"
   },
   {
-    "标题": "Keep your SAT prep on track with practice tests in Gemini.",
-    "发布方": "Google",
-    "日期": "2026-08-25",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/"
-  },
-  {
     "标题": "Ask a Scientist: How can researchers use AI to predict a flood?",
     "发布方": "Google",
     "日期": "2026-08-25",
@@ -414,7 +413,7 @@
     "链接": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/"
   },
   {
-    "标题": "Operation Blue Skies: Reducing aviation climate impact with AI",
+    "标题": "Keep your SAT prep on track with practice tests in Gemini.",
     "发布方": "Google",
     "日期": "2026-08-25",
     "地区": "海外",
@@ -425,10 +424,11 @@
     "标签": [
       "Google",
       "AI",
+      "Gemini",
       "模型升级"
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies/"
+    "链接": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/"
   },
   {
     "标题": "FEATURED",
