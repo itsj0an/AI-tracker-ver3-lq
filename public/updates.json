@@ -1,6 +1,6 @@
 [
   {
-    "标题": "Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+    "标题": "Previewing the Model Hardware Standard Announcements Aug 27, 2026 We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
     "发布方": "Anthropic",
     "日期": "2026-08-27",
     "地区": "海外",
@@ -14,7 +14,7 @@
       "Agent"
     ],
     "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/claude-opus-5"
+    "链接": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
   },
   {
     "标题": "Announcements Aug 14, 2026 How Claude’s text watermark works In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.",
@@ -34,21 +34,21 @@
     "链接": "https://www.anthropic.com/news/claude-text-watermark"
   },
   {
-    "标题": "Product Aug 7, 2026 Improving Fable 5's biology safeguards We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query.",
+    "标题": "Product Jul 24, 2026 Introducing Claude Opus 5 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
     "发布方": "Anthropic",
     "日期": "2026-08-27",
     "地区": "海外",
-    "类型": "模型升级",
+    "类型": "Agent",
     "来源": "Anthropic Newsroom",
     "来源类型": "官方",
     "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
     "标签": [
       "Anthropic",
       "Claude",
-      "模型升级"
+      "Agent"
     ],
     "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
+    "链接": "https://www.anthropic.com/news/claude-opus-5"
   },
   {
     "标题": "Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
@@ -68,6 +68,23 @@
     "链接": "https://www.anthropic.com/news/claude-sonnet-5"
   },
   {
+    "标题": "Aug 27, 2026 Announcements Expanding our support for scientists",
+    "发布方": "Anthropic",
+    "日期": "2026-08-27",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Anthropic Newsroom",
+    "来源类型": "官方",
+    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "标签": [
+      "Anthropic",
+      "Claude",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
+    "链接": "https://www.anthropic.com/news/expanding-support-for-scientists"
+  },
+  {
     "标题": "Aug 25, 2026 Announcements Funding better evaluations of AI’s impact on wellbeing",
     "发布方": "Anthropic",
     "日期": "2026-08-27",
@@ -83,6 +100,23 @@
     ],
     "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
     "链接": "https://www.anthropic.com/news/wellbeing-research-grants"
+  },
+  {
+    "标题": "Aug 7, 2026 Product Improving Fable 5's biology safeguards",
+    "发布方": "Anthropic",
+    "日期": "2026-08-27",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Anthropic Newsroom",
+    "来源类型": "官方",
+    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "标签": [
+      "Anthropic",
+      "Claude",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
+    "链接": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
   },
   {
     "标题": "Aug 4, 2026 Announcements Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
@@ -153,40 +187,6 @@
     "链接": "https://www.anthropic.com/news/cognizant-anthropic"
   },
   {
-    "标题": "Jul 22, 2026 Economics A research agenda for the Economic Futures Research Fund",
-    "发布方": "Anthropic",
-    "日期": "2026-08-27",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Anthropic Newsroom",
-    "来源类型": "官方",
-    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
-    "标签": [
-      "Anthropic",
-      "Claude",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/economic-futures-research-fund-agenda"
-  },
-  {
-    "标题": "Jul 22, 2026 Product Ask Claude about the Anthropic Economic Index",
-    "发布方": "Anthropic",
-    "日期": "2026-08-27",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Anthropic Newsroom",
-    "来源类型": "官方",
-    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
-    "标签": [
-      "Anthropic",
-      "Claude",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/anthropic-economic-index-connector"
-  },
-  {
     "标题": "Responsible Scaling Policy",
     "发布方": "Anthropic",
     "日期": "2026-08-27",
@@ -202,6 +202,112 @@
     ],
     "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
+  },
+  {
+    "标题": "Expert Intelligence: a new way for you to engage with trusted content",
+    "发布方": "Google",
+    "日期": "2026-08-27",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/"
+  },
+  {
+    "标题": "3 new ways to plan and book travel in Search",
+    "发布方": "Google",
+    "日期": "2026-08-27",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/"
+  },
+  {
+    "标题": "Gemini Omni 1.1 Flash lets you build with more control",
+    "发布方": "Google",
+    "日期": "2026-08-27",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/"
+  },
+  {
+    "标题": "Partnering with Khan Academy on building AI tools for classrooms",
+    "发布方": "Google",
+    "日期": "2026-08-27",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/education/khan-academy-back-to-school/"
+  },
+  {
+    "标题": "Google Flow brings new creative control features to enhance video editing.",
+    "发布方": "Google",
+    "日期": "2026-08-27",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-creative-controls-google-flow/"
+  },
+  {
+    "标题": "Our Fitbit Air Special Edition Pokémon Sleep is here",
+    "发布方": "Google",
+    "日期": "2026-08-27",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-air-special-edition-pokemon-sleep/"
   },
   {
     "标题": "7 ways to kick-start back to school using Gemini in Workspace",
@@ -344,24 +450,6 @@
     "链接": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-delaware/"
   },
   {
-    "标题": "Celebrate 110 years of national parks with Maps, Search, and Gemini",
-    "发布方": "Google",
-    "日期": "2026-08-27",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/maps/national-parks-week-google-2026/"
-  },
-  {
     "标题": "How developers build AI for good with Gemma 4",
     "发布方": "Google",
     "日期": "2026-08-27",
@@ -377,57 +465,6 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/winning-entries-gemma-4-good-challenge/"
-  },
-  {
-    "标题": "What does “full-stack” AI actually mean?",
-    "发布方": "Google",
-    "日期": "2026-08-27",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means/"
-  },
-  {
-    "标题": "Take an interactive journey through America’s national parks",
-    "发布方": "Google",
-    "日期": "2026-08-27",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/united-parks-of-america/"
-  },
-  {
-    "标题": "Make AI Max work for your business with new testing and planning tools.",
-    "发布方": "Google",
-    "日期": "2026-08-27",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products/ads-commerce/ai-max-testing-planning-tools/"
   },
   {
     "标题": "FEATURED",
