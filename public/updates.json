@@ -204,6 +204,94 @@
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
   },
   {
+    "标题": "Build a measurement stack you can rely on to steer your campaigns.",
+    "发布方": "Google",
+    "日期": "2026-09-02",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products/ads-commerce/ads-decoded-podcast-measurement-stack/"
+  },
+  {
+    "标题": "Book insights in Google Play Books is now available in more than a million ebooks and in the iOS app.",
+    "发布方": "Google",
+    "日期": "2026-09-02",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/"
+  },
+  {
+    "标题": "Proactive cyber defense for governments and enterprises",
+    "发布方": "Google",
+    "日期": "2026-09-02",
+    "地区": "海外",
+    "类型": "企业方案",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "企业方案"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/"
+  },
+  {
+    "标题": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "发布方": "Google",
+    "日期": "2026-09-02",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
+  },
+  {
+    "标题": "MrBeast partners with Gemini to turn impossibly big ideas into reality",
+    "发布方": "Google",
+    "日期": "2026-09-02",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/company-news/inside-google/company-announcements/mrbeast-gemini-google-health/"
+  },
+  {
     "标题": "The latest AI news we announced in August 2026",
     "发布方": "Google",
     "日期": "2026-09-02",
@@ -239,23 +327,6 @@
     "链接": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/"
   },
   {
-    "标题": "Ask a Scientist: How do researchers use AI to predict a cyclone?",
-    "发布方": "Google",
-    "日期": "2026-09-02",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions/"
-  },
-  {
     "标题": "Try Google Pics: Easy image creation and editing in Google Workspace",
     "发布方": "Google",
     "日期": "2026-09-02",
@@ -271,6 +342,23 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/products-and-platforms/products/workspace/google-pics/"
+  },
+  {
+    "标题": "Ask a Scientist: How do researchers use AI to predict a cyclone?",
+    "发布方": "Google",
+    "日期": "2026-09-02",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions/"
   },
   {
     "标题": "Pairing Google Antigravity with Gemini 3.7 Flash solves notable multi-agent math and engineering problems.",
@@ -327,23 +415,6 @@
     "链接": "https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/"
   },
   {
-    "标题": "3 new ways to plan and book travel in Search",
-    "发布方": "Google",
-    "日期": "2026-09-02",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/"
-  },
-  {
     "标题": "Gemini Omni 1.1 Flash lets you build with more control",
     "发布方": "Google",
     "日期": "2026-09-02",
@@ -362,6 +433,23 @@
     "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/"
   },
   {
+    "标题": "3 new ways to plan and book travel in Search",
+    "发布方": "Google",
+    "日期": "2026-09-02",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/"
+  },
+  {
     "标题": "Partnering with Khan Academy on building AI tools for classrooms",
     "发布方": "Google",
     "日期": "2026-09-02",
@@ -378,95 +466,6 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/products-and-platforms/products/education/khan-academy-back-to-school/"
-  },
-  {
-    "标题": "Google Flow brings new creative control features to enhance video editing.",
-    "发布方": "Google",
-    "日期": "2026-09-02",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-creative-controls-google-flow/"
-  },
-  {
-    "标题": "Our Fitbit Air Special Edition Pokémon Sleep is here",
-    "发布方": "Google",
-    "日期": "2026-09-02",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-air-special-edition-pokemon-sleep/"
-  },
-  {
-    "标题": "7 ways to kick-start back to school using Gemini in Workspace",
-    "发布方": "Google",
-    "日期": "2026-09-02",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/"
-  },
-  {
-    "标题": "Intelligent transcription with Gemini 3.5 Transcribe",
-    "发布方": "Google",
-    "日期": "2026-09-02",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/"
-  },
-  {
-    "标题": "Turn your voice into action with new productivity features in Gemini Live",
-    "发布方": "Google",
-    "日期": "2026-09-02",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/"
   },
   {
     "标题": "FEATURED",
