@@ -204,6 +204,40 @@
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
   },
   {
+    "标题": "5 things to know about teens' views on AI today",
+    "发布方": "Google",
+    "日期": "2026-09-16",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/technology/families/teens-ai-research-findings/"
+  },
+  {
+    "标题": "Boost your holiday sales with these agentic commerce updates",
+    "发布方": "Google",
+    "日期": "2026-09-16",
+    "地区": "海外",
+    "类型": "Agent",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Agent"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/shopping/google-shopping-updates-holiday-shopping/"
+  },
+  {
     "标题": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
     "发布方": "Google",
     "日期": "2026-09-16",
@@ -257,24 +291,6 @@
     "链接": "https://blog.google/company-news/outreach-and-initiatives/google-org/ai-government-innovation-recipients/"
   },
   {
-    "标题": "Sharpen your study routine with new Gemini Notebook tools",
-    "发布方": "Google",
-    "日期": "2026-09-16",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/"
-  },
-  {
     "标题": "AI for everyone in every language",
     "发布方": "Google",
     "日期": "2026-09-16",
@@ -290,6 +306,24 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/"
+  },
+  {
+    "标题": "4 ways to tackle household chores with Gemini",
+    "发布方": "Google",
+    "日期": "2026-09-16",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/"
   },
   {
     "标题": "Ask a Scientist: How can researchers use AI to spot a wildfire?",
@@ -343,7 +377,7 @@
     "链接": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/"
   },
   {
-    "标题": "4 ways to tackle household chores with Gemini",
+    "标题": "Sharpen your study routine with new Gemini Notebook tools",
     "发布方": "Google",
     "日期": "2026-09-16",
     "地区": "海外",
@@ -358,7 +392,7 @@
       "模型升级"
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/"
+    "链接": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/"
   },
   {
     "标题": "New insights from Google’s AI & Economy ATLAS",
@@ -393,57 +427,6 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/"
-  },
-  {
-    "标题": "Three Google supported projects premiere during the 83rd Venice International Film Festival.",
-    "发布方": "Google",
-    "日期": "2026-09-16",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/xr-ar/three-google-supported-projects-premiere-during-the-83rd-venice-international-film-festival/"
-  },
-  {
-    "标题": "Dreambeans: Daily stories, brewed just for you, now available to all accounts in the U.S.",
-    "发布方": "Google",
-    "日期": "2026-09-16",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans-expansion-september-2026/"
-  },
-  {
-    "标题": "3 ways to prep for your next big race with Search",
-    "发布方": "Google",
-    "日期": "2026-09-16",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/"
   },
   {
     "标题": "FEATURED",
@@ -633,6 +616,23 @@
     "链接": "https://mistral.ai/news/voxtral-tts/"
   },
   {
+    "标题": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
+    "发布方": "Mistral",
+    "日期": "2026-09-16",
+    "地区": "海外",
+    "类型": "产品发布",
+    "来源": "Mistral News",
+    "来源类型": "官方",
+    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
+    "标签": [
+      "Mistral",
+      "海外AI",
+      "产品发布"
+    ],
+    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
+    "链接": "https://mistral.ai/news/mistral-x-mozilla"
+  },
+  {
     "标题": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
     "发布方": "Mistral",
     "日期": "2026-09-16",
@@ -667,23 +667,6 @@
     "链接": "https://mistral.ai/news/legacy-code-modernization"
   },
   {
-    "标题": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
-    "发布方": "Mistral",
-    "日期": "2026-09-16",
-    "地区": "海外",
-    "类型": "产品发布",
-    "来源": "Mistral News",
-    "来源类型": "官方",
-    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
-    "标签": [
-      "Mistral",
-      "海外AI",
-      "产品发布"
-    ],
-    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier"
-  },
-  {
     "标题": "Company Mistral raises €3B to make sovereign, open-weight AI the technology frontier Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion. September 8, 2026 By Mistral",
     "发布方": "Mistral",
     "日期": "2026-09-16",
@@ -699,6 +682,23 @@
     ],
     "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
     "链接": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/"
+  },
+  {
+    "标题": "Company Mistral and Mozilla are bringing open, private and multilingual AI to your web browser Mozilla and Mistral AI are partnering to bring open, private and multilingual AI to Firefox Smart Window. September 16, 2026 By Mistral and Mozilla",
+    "发布方": "Mistral",
+    "日期": "2026-09-16",
+    "地区": "海外",
+    "类型": "产品发布",
+    "来源": "Mistral News",
+    "来源类型": "官方",
+    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
+    "标签": [
+      "Mistral",
+      "海外AI",
+      "产品发布"
+    ],
+    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
+    "链接": "https://mistral.ai/news/mistral-x-mozilla/"
   },
   {
     "标题": "Company Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data September 10, 2026 By Mistral",
@@ -801,22 +801,5 @@
     ],
     "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
     "链接": "https://mistral.ai/news/shieldstral/"
-  },
-  {
-    "标题": "Product Your Prompts and Skills need a system of record. Studio gives AI prompts & skills a system of record—versioned, owned, and traceable. July 9, 2026 By Mistral",
-    "发布方": "Mistral",
-    "日期": "2026-09-16",
-    "地区": "海外",
-    "类型": "产品发布",
-    "来源": "Mistral News",
-    "来源类型": "官方",
-    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
-    "标签": [
-      "Mistral",
-      "海外AI",
-      "产品发布"
-    ],
-    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/manage-prompts-and-skills-in-studio/"
   }
 ]
