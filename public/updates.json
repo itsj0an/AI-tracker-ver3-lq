@@ -17,6 +17,23 @@
     "链接": "https://www.anthropic.com/news/improving-alignment-security-efforts"
   },
   {
+    "标题": "Announcements Aug 27, 2026 Previewing the Model Hardware Standard We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+    "发布方": "Anthropic",
+    "日期": "2026-09-22",
+    "地区": "海外",
+    "类型": "Agent",
+    "来源": "Anthropic Newsroom",
+    "来源类型": "官方",
+    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "标签": [
+      "Anthropic",
+      "Claude",
+      "Agent"
+    ],
+    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
+    "链接": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
+  },
+  {
     "标题": "Sep 18, 2026 Announcements Partnering with Accenture on embedded evaluation",
     "发布方": "Anthropic",
     "日期": "2026-09-22",
@@ -66,23 +83,6 @@
     ],
     "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
     "链接": "https://www.anthropic.com/news/enterprise-frontier-safeguards"
-  },
-  {
-    "标题": "Aug 27, 2026 Announcements Previewing the Model Hardware Standard",
-    "发布方": "Anthropic",
-    "日期": "2026-09-22",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Anthropic Newsroom",
-    "来源类型": "官方",
-    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
-    "标签": [
-      "Anthropic",
-      "Claude",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
   },
   {
     "标题": "Aug 27, 2026 Announcements Expanding our support for scientists",
@@ -185,6 +185,40 @@
     ],
     "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
+  },
+  {
+    "标题": "Investing in global talent and AI literacy",
+    "发布方": "Google",
+    "日期": "2026-09-22",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/itu-ai-skills-training/"
+  },
+  {
+    "标题": "Using AI to help local governments connect with constituents",
+    "发布方": "Google",
+    "日期": "2026-09-22",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/company-news/outreach-and-initiatives/google-org/sensemaking-ai/"
   },
   {
     "标题": "Expanding free AI training for educators",
