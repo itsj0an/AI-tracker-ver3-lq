@@ -187,6 +187,75 @@
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
   },
   {
+    "标题": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "发布方": "Google",
+    "日期": "2026-10-06",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/"
+  },
+  {
+    "标题": "Making global public health more proactive with Google Earth AI",
+    "发布方": "Google",
+    "日期": "2026-10-06",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/technology/health/google-earth-ai/"
+  },
+  {
+    "标题": "More than 100 startups joining our Google for Startups Gemini Startup Forum",
+    "发布方": "Google",
+    "日期": "2026-10-06",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/gemini-startup-forum-2026/"
+  },
+  {
+    "标题": "Why we're backing America's existing nuclear plants",
+    "发布方": "Google",
+    "日期": "2026-10-06",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/company-news/why-were-backing-americas-existing-nuclear-plants/"
+  },
+  {
     "标题": "I use technology to give students a voice and become critical digital citizens.",
     "发布方": "Google",
     "日期": "2026-10-06",
@@ -205,6 +274,24 @@
     "链接": "https://blog.google/products-and-platforms/products/education/teacher-voices-sweden/"
   },
   {
+    "标题": "Gemini helps me give a voice to students who cannot write.",
+    "发布方": "Google",
+    "日期": "2026-10-06",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/education/special-education-gemini/"
+  },
+  {
     "标题": "Here’s how I use technology to bring science to life in my classroom.",
     "发布方": "Google",
     "日期": "2026-10-06",
@@ -221,6 +308,42 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/products-and-platforms/products/education/science-teacher-gemini/"
+  },
+  {
+    "标题": "I replaced traditional coding tests with real conversations about how my students solve problems using AI.",
+    "发布方": "Google",
+    "日期": "2026-10-06",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/education/gemini-google-colab/"
+  },
+  {
+    "标题": "Gemini helps me bring hands-on learning into the classroom.",
+    "发布方": "Google",
+    "日期": "2026-10-06",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/education/english-teacher-gemini/"
   },
   {
     "标题": "I teach my students that in the AI era, critical thinking comes first.",
@@ -295,60 +418,6 @@
     "链接": "https://blog.google/products-and-platforms/products/education/education-officer-gemini/"
   },
   {
-    "标题": "Gemini helps me bring hands-on learning into the classroom.",
-    "发布方": "Google",
-    "日期": "2026-10-06",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/education/english-teacher-gemini/"
-  },
-  {
-    "标题": "I replaced traditional coding tests with real conversations about how my students solve problems using AI.",
-    "发布方": "Google",
-    "日期": "2026-10-06",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/education/gemini-google-colab/"
-  },
-  {
-    "标题": "Gemini helps me give a voice to students who cannot write.",
-    "发布方": "Google",
-    "日期": "2026-10-06",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/education/special-education-gemini/"
-  },
-  {
     "标题": "Making AI training available to UK and Ireland educators",
     "发布方": "Google",
     "日期": "2026-10-06",
@@ -381,75 +450,6 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/"
-  },
-  {
-    "标题": "Our Project Suncatcher prototype satellite is in orbit.",
-    "发布方": "Google",
-    "日期": "2026-10-06",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/"
-  },
-  {
-    "标题": "Turn your existing social assets into high-impact YouTube ads.",
-    "发布方": "Google",
-    "日期": "2026-10-06",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products/ads-commerce/creating-assets-youtube-ads/"
-  },
-  {
-    "标题": "Guided Vision in Gemini Live: built for accessibility",
-    "发布方": "Google",
-    "日期": "2026-10-06",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/"
-  },
-  {
-    "标题": "1,400 educators joined our Badge-a-thon: Day of AI Learning.",
-    "发布方": "Google",
-    "日期": "2026-10-06",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/education/ai-educator-series-badge-a-thon/"
   },
   {
     "标题": "FEATURED",
@@ -588,7 +588,7 @@
     "链接": "https://mistral.ai/news/?categories=research"
   },
   {
-    "标题": "Company Mistral raises €3B to make sovereign, open-weight AI the technology frontier Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion. September 8, 2026 By Mistral",
+    "标题": "Research Introducing Mistral Large 4 October 6, 2026 By Mistral",
     "发布方": "Mistral",
     "日期": "2026-10-06",
     "地区": "海外",
@@ -602,7 +602,7 @@
       "产品发布"
     ],
     "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/"
+    "链接": "https://mistral.ai/news/mistral-large-4/"
   },
   {
     "标题": "Company Hallo, Deutschland! Mistral Opens German Hub in Munich to Advance Industrial AI in Europe’s Largest Economy September 28, 2026 By Mistral",
@@ -671,6 +671,23 @@
     ],
     "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
     "链接": "https://mistral.ai/news/legacy-code-modernization/"
+  },
+  {
+    "标题": "Company Mistral raises €3B to make sovereign, open-weight AI the technology frontier Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion. September 8, 2026 By Mistral",
+    "发布方": "Mistral",
+    "日期": "2026-10-06",
+    "地区": "海外",
+    "类型": "产品发布",
+    "来源": "Mistral News",
+    "来源类型": "官方",
+    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
+    "标签": [
+      "Mistral",
+      "海外AI",
+      "产品发布"
+    ],
+    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
+    "链接": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/"
   },
   {
     "标题": "Company Mistral x HUMAIN August 24, 2026 By Mistral",
@@ -807,22 +824,5 @@
     ],
     "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
     "链接": "https://mistral.ai/news/more-control-over-connectors/"
-  },
-  {
-    "标题": "Research Introducing Mistral OCR 4 State of the art document intelligence model. June 23, 2026 By Mistral AI",
-    "发布方": "Mistral",
-    "日期": "2026-10-06",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Mistral News",
-    "来源类型": "官方",
-    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
-    "标签": [
-      "Mistral",
-      "海外AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/ocr-4/"
   }
 ]
