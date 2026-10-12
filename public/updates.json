@@ -187,6 +187,40 @@
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
   },
   {
+    "标题": "From game days to daily life: The familiar faces teaming up with Google Health",
+    "发布方": "Google",
+    "日期": "2026-10-12",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/google-health/google-health-partnership-athletes-creators/"
+  },
+  {
+    "标题": "How we’re making Google Health and Fitbit Air smarter than ever",
+    "发布方": "Google",
+    "日期": "2026-10-12",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/google-health/fitbit-google-health-updates/"
+  },
+  {
     "标题": "Study in The Lancet suggests AI could improve patient-physician relationships.",
     "发布方": "Google",
     "日期": "2026-10-12",
@@ -340,77 +374,6 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/gemini-startup-forum-2026/"
-  },
-  {
-    "标题": "Why we're backing America's existing nuclear plants",
-    "发布方": "Google",
-    "日期": "2026-10-12",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/company-news/why-were-backing-americas-existing-nuclear-plants/"
-  },
-  {
-    "标题": "I use technology to give students a voice and become critical digital citizens.",
-    "发布方": "Google",
-    "日期": "2026-10-12",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/education/teacher-voices-sweden/"
-  },
-  {
-    "标题": "My eighth-grade students built our school newscast from scratch with Gemini.",
-    "发布方": "Google",
-    "日期": "2026-10-12",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/education/gemini-student-newscast/"
-  },
-  {
-    "标题": "Here’s how I use technology to bring science to life in my classroom.",
-    "发布方": "Google",
-    "日期": "2026-10-12",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/education/science-teacher-gemini/"
   },
   {
     "标题": "FEATURED",
@@ -583,7 +546,7 @@
     "链接": "https://mistral.ai/news/hallo-deutschland/"
   },
   {
-    "标题": "Company Mistral and Mozilla are bringing open, private and multilingual AI to your web browser Mozilla and Mistral AI are partnering to bring open, private and multilingual AI to Firefox Smart Window. September 16, 2026 By Mistral and Mozilla",
+    "标题": "Company Mistral and Mozilla are bringing open, private and multilingual AI to your web browser Mozilla and Mistral are partnering to bring open, private and multilingual AI to Firefox Smart Window. September 16, 2026 By Mistral and Mozilla",
     "发布方": "Mistral",
     "日期": "2026-10-12",
     "地区": "海外",
@@ -753,7 +716,7 @@
     "链接": "https://mistral.ai/news/robostral-navigate/"
   },
   {
-    "标题": "Research Leanstral 1.5: Proof Abundance for All July 2, 2026 By Leanstral Team at Mistral AI",
+    "标题": "Research Leanstral 1.5: Proof Abundance for All July 2, 2026 By Leanstral Team at Mistral",
     "发布方": "Mistral",
     "日期": "2026-10-12",
     "地区": "海外",
