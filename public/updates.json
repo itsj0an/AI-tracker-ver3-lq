@@ -187,6 +187,76 @@
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
   },
   {
+    "标题": "How to shape your slides and videos with Gemini Notebook",
+    "发布方": "Google",
+    "日期": "2026-10-19",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/"
+  },
+  {
+    "标题": "4 tips for styling outfits with Gemini",
+    "发布方": "Google",
+    "日期": "2026-10-19",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/"
+  },
+  {
+    "标题": "See the top style searches from people in big fashion capitals.",
+    "发布方": "Google",
+    "日期": "2026-10-19",
+    "地区": "海外",
+    "类型": "开发者工具",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "开发者工具"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/search/fashion-capital-style-searches/"
+  },
+  {
+    "标题": "We’re supporting nature restoration through sustainable farming in Brazil.",
+    "发布方": "Google",
+    "日期": "2026-10-19",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/company-news/outreach-and-initiatives/sustainability/brazil-silvopasture/"
+  },
+  {
     "标题": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
     "发布方": "Google",
     "日期": "2026-10-19",
@@ -374,75 +444,6 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/"
-  },
-  {
-    "标题": "17 organizations using AI to accelerate scientific breakthroughs",
-    "发布方": "Google",
-    "日期": "2026-10-19",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/company-news/outreach-and-initiatives/google-org/impact-challenge-ai-science-recipients/"
-  },
-  {
-    "标题": "We’re powering European scientific discovery with advanced AI compute and frontier models.",
-    "发布方": "Google",
-    "日期": "2026-10-19",
-    "地区": "海外",
-    "类型": "企业方案",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "企业方案"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/"
-  },
-  {
-    "标题": "Enabling an AI-first European economy",
-    "发布方": "Google",
-    "日期": "2026-10-19",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/european-economic-impact-report/"
-  },
-  {
-    "标题": "Developing Gemini 4 Argon responsibly and safely",
-    "发布方": "Google",
-    "日期": "2026-10-19",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/"
   },
   {
     "标题": "FEATURED",
