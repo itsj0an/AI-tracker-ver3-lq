@@ -51,6 +51,23 @@
     "链接": "https://www.anthropic.com/news/features"
   },
   {
+    "标题": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+    "发布方": "Anthropic",
+    "日期": "2026-10-21",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Anthropic Newsroom",
+    "来源类型": "官方",
+    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "标签": [
+      "Anthropic",
+      "Claude",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
+    "链接": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust"
+  },
+  {
     "标题": "An update on independent evaluators",
     "发布方": "Anthropic",
     "日期": "2026-10-21",
@@ -238,21 +255,55 @@
     "链接": "https://www.anthropic.com/news/claude-frontier-academy"
   },
   {
-    "标题": "Barclays scales Claude to upgrade operations and improve client experience",
-    "发布方": "Anthropic",
+    "标题": "Recreating the lost studios of women sculptors with Prune Nourry",
+    "发布方": "Google",
     "日期": "2026-10-21",
     "地区": "海外",
     "类型": "模型升级",
-    "来源": "Anthropic Newsroom",
+    "来源": "Google Blog",
     "来源类型": "官方",
-    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
     "标签": [
-      "Anthropic",
-      "Claude",
+      "Google",
+      "AI",
       "模型升级"
     ],
-    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/barclays-scales-claude"
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/visionaries-petit-palais-art-basel-paris-prune-nourry/"
+  },
+  {
+    "标题": "New bidding and budgeting tools can transform your upcoming holiday ad strategy.",
+    "发布方": "Google",
+    "日期": "2026-10-21",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/"
+  },
+  {
+    "标题": "Drive with “The Cat in the Hat” on Waze.",
+    "发布方": "Google",
+    "日期": "2026-10-21",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/waze/waze-the-cat-in-the-hat/"
   },
   {
     "标题": "Southeast Asia’s digital economy to hit $368 billion",
@@ -464,57 +515,6 @@
     "链接": "https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/"
   },
   {
-    "标题": "Android earthquake alerts now available in more than 200 regions",
-    "发布方": "Google",
-    "日期": "2026-10-21",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/"
-  },
-  {
-    "标题": "400 publications are now partnering with us on our News AI pilot program.",
-    "发布方": "Google",
-    "日期": "2026-10-21",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/"
-  },
-  {
-    "标题": "More ways to connect with the web from Search",
-    "发布方": "Google",
-    "日期": "2026-10-21",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/"
-  },
-  {
     "标题": "FEATURED",
     "发布方": "Meta",
     "日期": "2026-10-21",
@@ -649,6 +649,23 @@
     ],
     "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
     "链接": "https://mistral.ai/news/mistral-large-4/"
+  },
+  {
+    "标题": "Company Mistral Advances AI for Engineering with NVIDIA Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing. October 21, 2026 By Mistral",
+    "发布方": "Mistral",
+    "日期": "2026-10-21",
+    "地区": "海外",
+    "类型": "产品发布",
+    "来源": "Mistral News",
+    "来源类型": "官方",
+    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
+    "标签": [
+      "Mistral",
+      "海外AI",
+      "产品发布"
+    ],
+    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
+    "链接": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/"
   },
   {
     "标题": "Research Voxtral 3 Build agents that can listen, reason, speak, and act, with Voxtral 3. October 20, 2026 By Mistral",
@@ -870,22 +887,5 @@
     ],
     "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
     "链接": "https://mistral.ai/news/robostral-navigate/"
-  },
-  {
-    "标题": "Research Leanstral 1.5: Proof Abundance for All July 2, 2026 By Leanstral Team at Mistral",
-    "发布方": "Mistral",
-    "日期": "2026-10-21",
-    "地区": "海外",
-    "类型": "产品发布",
-    "来源": "Mistral News",
-    "来源类型": "官方",
-    "一句话摘要": "Mistral 发布模型、产品或公司相关动态。",
-    "标签": [
-      "Mistral",
-      "海外AI",
-      "产品发布"
-    ],
-    "追踪价值总结": "适合补充观察海外模型公司的产品推进、开源策略和企业化方向。",
-    "链接": "https://mistral.ai/news/leanstral-1-5/"
   }
 ]
