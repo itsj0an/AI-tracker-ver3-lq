@@ -2,7 +2,7 @@
   {
     "标题": "Announcements",
     "发布方": "Anthropic",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -19,7 +19,7 @@
   {
     "标题": "Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
     "发布方": "Anthropic",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -36,7 +36,7 @@
   {
     "标题": "Features",
     "发布方": "Anthropic",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -53,7 +53,7 @@
   {
     "标题": "Donating Agent Skills to the Agentic AI Foundation",
     "发布方": "Anthropic",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Anthropic Newsroom",
@@ -70,7 +70,7 @@
   {
     "标题": "Open call for guest investigators in the life sciences",
     "发布方": "Anthropic",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -87,7 +87,7 @@
   {
     "标题": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
     "发布方": "Anthropic",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -104,7 +104,7 @@
   {
     "标题": "An update on independent evaluators",
     "发布方": "Anthropic",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -121,7 +121,7 @@
   {
     "标题": "Preparing for the 2026 US midterms",
     "发布方": "Anthropic",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -138,7 +138,7 @@
   {
     "标题": "Safeguards",
     "发布方": "Anthropic",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -155,7 +155,7 @@
   {
     "标题": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
     "发布方": "Anthropic",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -172,7 +172,7 @@
   {
     "标题": "Strengthening our defenses against distillation attacks",
     "发布方": "Anthropic",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -189,7 +189,7 @@
   {
     "标题": "Introducing the Anthropic Cyber Mission",
     "发布方": "Anthropic",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -206,7 +206,7 @@
   {
     "标题": "Security",
     "发布方": "Anthropic",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -223,7 +223,7 @@
   {
     "标题": "2026 Usage Policy update",
     "发布方": "Anthropic",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -240,7 +240,7 @@
   {
     "标题": "Building on our commitment to American scientific discovery",
     "发布方": "Anthropic",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -255,9 +255,27 @@
     "链接": "https://www.anthropic.com/news/genesis-mission-commitment"
   },
   {
+    "标题": "See what 5 builders are making with Gemini 4 Argon",
+    "发布方": "Google",
+    "日期": "2026-10-24",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/"
+  },
+  {
     "标题": "Recreating the lost studios of women sculptors with Prune Nourry",
     "发布方": "Google",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -274,7 +292,7 @@
   {
     "标题": "New bidding and budgeting tools can transform your upcoming holiday ad strategy.",
     "发布方": "Google",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -291,7 +309,7 @@
   {
     "标题": "Drive with “The Cat in the Hat” on Waze.",
     "发布方": "Google",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -308,7 +326,7 @@
   {
     "标题": "Southeast Asia’s digital economy to hit $368 billion",
     "发布方": "Google",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -325,7 +343,7 @@
   {
     "标题": "Get hands-free personalized help on the road with Gemini",
     "发布方": "Google",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -343,7 +361,7 @@
   {
     "标题": "Ask a Scientist: How can AI help doctors spend more time on collaborative care?",
     "发布方": "Google",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -360,7 +378,7 @@
   {
     "标题": "New Gemini tools for small business owners",
     "发布方": "Google",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -378,7 +396,7 @@
   {
     "标题": "Expanding our defenses against financial scam ads",
     "发布方": "Google",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -395,7 +413,7 @@
   {
     "标题": "How to shape your slides and videos with Gemini Notebook",
     "发布方": "Google",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -413,7 +431,7 @@
   {
     "标题": "4 tips for styling outfits with Gemini",
     "发布方": "Google",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -431,7 +449,7 @@
   {
     "标题": "See the top style searches from people in big fashion capitals.",
     "发布方": "Google",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "开发者工具",
     "来源": "Google Blog",
@@ -448,7 +466,7 @@
   {
     "标题": "We’re supporting nature restoration through sustainable farming in Brazil.",
     "发布方": "Google",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -465,7 +483,7 @@
   {
     "标题": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
     "发布方": "Google",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -483,7 +501,7 @@
   {
     "标题": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
     "发布方": "Google",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -498,26 +516,9 @@
     "链接": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/"
   },
   {
-    "标题": "Check if a text message is a scam using Circle to Search.",
-    "发布方": "Google",
-    "日期": "2026-10-23",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/"
-  },
-  {
     "标题": "FEATURED",
     "发布方": "Meta",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -534,7 +535,7 @@
   {
     "标题": "FEATURED",
     "发布方": "Meta",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -551,7 +552,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -568,7 +569,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -585,7 +586,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -602,7 +603,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -619,7 +620,7 @@
   {
     "标题": "Learn More",
     "发布方": "Meta",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Meta AI Blog",
@@ -636,7 +637,7 @@
   {
     "标题": "Research Introducing Mistral Large 4 October 6, 2026 By Mistral",
     "发布方": "Mistral",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Mistral News",
@@ -653,7 +654,7 @@
   {
     "标题": "Company Mistral Advances AI for Engineering with NVIDIA Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing. October 21, 2026 By Mistral",
     "发布方": "Mistral",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Mistral News",
@@ -670,7 +671,7 @@
   {
     "标题": "Research Voxtral 3 Build agents that can listen, reason, speak, and act, with Voxtral 3. October 20, 2026 By Mistral",
     "发布方": "Mistral",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Mistral News",
@@ -687,7 +688,7 @@
   {
     "标题": "Research Introducing Timestral State-of-the-art probabilistic forecasts with just 209M parameters, outperforming larger models on CPU. October 15, 2026 By Mistral",
     "发布方": "Mistral",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Mistral News",
@@ -704,7 +705,7 @@
   {
     "标题": "Company Hallo, Deutschland! Mistral Opens German Hub in Munich to Advance Industrial AI in Europe’s Largest Economy September 28, 2026 By Mistral",
     "发布方": "Mistral",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Mistral News",
@@ -721,7 +722,7 @@
   {
     "标题": "Company Mistral and Mozilla are bringing open, private and multilingual AI to your web browser Mozilla and Mistral are partnering to bring open, private and multilingual AI to Firefox Smart Window. September 16, 2026 By Mistral and Mozilla",
     "发布方": "Mistral",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Mistral News",
@@ -738,7 +739,7 @@
   {
     "标题": "Company Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data September 10, 2026 By Mistral",
     "发布方": "Mistral",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "企业方案",
     "来源": "Mistral News",
@@ -755,7 +756,7 @@
   {
     "标题": "Solutions Modernizing complex legacy code with AI agents. Lessons from 40,000 lines of Fortran. September 9, 2026 By Carlo Antonio Patti & Rasul Alakbarli",
     "发布方": "Mistral",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Mistral News",
@@ -772,7 +773,7 @@
   {
     "标题": "Company Mistral raises €3B to make sovereign, open-weight AI the technology frontier Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion. September 8, 2026 By Mistral",
     "发布方": "Mistral",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Mistral News",
@@ -789,7 +790,7 @@
   {
     "标题": "Company Mistral x HUMAIN August 24, 2026 By Mistral",
     "发布方": "Mistral",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Mistral News",
@@ -806,7 +807,7 @@
   {
     "标题": "Product Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate, read, and verify information inside and across even the most complex documents. August 20, 2026 By Mistral",
     "发布方": "Mistral",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Mistral News",
@@ -823,7 +824,7 @@
   {
     "标题": "Company In-region inference, open models, and new European infrastructure for sovereign AI. Mistral is bringing together the inference infrastructure, open models, and long-term commitments Europe needs to control its AI future, and setting a roadmap for the world. August 11, 2026 By Mistral",
     "发布方": "Mistral",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "企业方案",
     "来源": "Mistral News",
@@ -840,7 +841,7 @@
   {
     "标题": "Solutions Introducing Shieldstral. August 4, 2026 By Mistral",
     "发布方": "Mistral",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Mistral News",
@@ -857,7 +858,7 @@
   {
     "标题": "Product Your Prompts and Skills need a system of record. Studio gives AI prompts & skills a system of record—versioned, owned, and traceable. July 9, 2026 By Mistral",
     "发布方": "Mistral",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "产品发布",
     "来源": "Mistral News",
@@ -874,7 +875,7 @@
   {
     "标题": "Research Introducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026 By Mistral",
     "发布方": "Mistral",
-    "日期": "2026-10-23",
+    "日期": "2026-10-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Mistral News",
