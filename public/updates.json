@@ -34,23 +34,6 @@
     "链接": "https://www.anthropic.com/news/cyber-verification-program"
   },
   {
-    "标题": "Features",
-    "发布方": "Anthropic",
-    "日期": "2026-10-27",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Anthropic Newsroom",
-    "来源类型": "官方",
-    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
-    "标签": [
-      "Anthropic",
-      "Claude",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/features"
-  },
-  {
     "标题": "Anthropic files S-1 with the SEC for proposed initial public offering",
     "发布方": "Anthropic",
     "日期": "2026-10-27",
@@ -66,6 +49,23 @@
     ],
     "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
     "链接": "https://www.anthropic.com/news/s1-sec"
+  },
+  {
+    "标题": "Features",
+    "发布方": "Anthropic",
+    "日期": "2026-10-27",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Anthropic Newsroom",
+    "来源类型": "官方",
+    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "标签": [
+      "Anthropic",
+      "Claude",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
+    "链接": "https://www.anthropic.com/news/features"
   },
   {
     "标题": "Donating Agent Skills to the Agentic AI Foundation",
@@ -255,7 +255,7 @@
     "链接": "https://www.anthropic.com/news/2026-usage-policy-update"
   },
   {
-    "标题": "Our newest AI Quest: Mapping the human brain",
+    "标题": "We’re announcing Genie 4, our new world model for real-time interactive simulation.",
     "发布方": "Google",
     "日期": "2026-10-27",
     "地区": "海外",
@@ -269,7 +269,25 @@
       "模型升级"
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
+    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/"
+  },
+  {
+    "标题": "8 examples of Gemini 4 Argon in action",
+    "发布方": "Google",
+    "日期": "2026-10-27",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-in-action/"
   },
   {
     "标题": "15 college students share their favorite Gemini features",
@@ -288,6 +306,23 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/"
+  },
+  {
+    "标题": "Our newest AI Quest: Mapping the human brain",
+    "发布方": "Google",
+    "日期": "2026-10-27",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
   },
   {
     "标题": "Powering sub-Saharan Africa beyond the grid",
@@ -478,41 +513,6 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/"
-  },
-  {
-    "标题": "How to shape your slides and videos with Gemini Notebook",
-    "发布方": "Google",
-    "日期": "2026-10-27",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/"
-  },
-  {
-    "标题": "See the top style searches from people in big fashion capitals.",
-    "发布方": "Google",
-    "日期": "2026-10-27",
-    "地区": "海外",
-    "类型": "开发者工具",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "开发者工具"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/search/fashion-capital-style-searches/"
   },
   {
     "标题": "FEATURED",
