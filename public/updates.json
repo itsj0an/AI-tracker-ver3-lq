@@ -255,6 +255,23 @@
     "链接": "https://www.anthropic.com/news/anthropic-cyber-mission"
   },
   {
+    "标题": "We're sharing our framework for building safer and more helpful AI for health.",
+    "发布方": "Google",
+    "日期": "2026-11-04",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/"
+  },
+  {
     "标题": "New research shows how Guided Learning supports students",
     "发布方": "Google",
     "日期": "2026-11-04",
@@ -476,42 +493,6 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/innovation-and-ai/technology/health/google-ai-for-healthcare-professionals-certificate/"
-  },
-  {
-    "标题": "How to use Gemini to update your resume",
-    "发布方": "Google",
-    "日期": "2026-11-04",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/products/gemini-app/update-resume-with-gemini/"
-  },
-  {
-    "标题": "How Gemini is helping students and teachers in the classroom",
-    "发布方": "Google",
-    "日期": "2026-11-04",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/education/impact-studies-uk-italy/"
   },
   {
     "标题": "FEATURED",
