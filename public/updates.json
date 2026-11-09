@@ -255,6 +255,40 @@
     "链接": "https://www.anthropic.com/news/anthropic-cyber-mission"
   },
   {
+    "标题": "Developers can now build with Google Maps Platform in AI Studio.",
+    "发布方": "Google",
+    "日期": "2026-11-09",
+    "地区": "海外",
+    "类型": "开发者工具",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "开发者工具"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/"
+  },
+  {
+    "标题": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+    "发布方": "Google",
+    "日期": "2026-11-09",
+    "地区": "海外",
+    "类型": "Agent",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Agent"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/"
+  },
+  {
     "标题": "Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.",
     "发布方": "Google",
     "日期": "2026-11-09",
@@ -360,23 +394,6 @@
     "链接": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/"
   },
   {
-    "标题": "New research shows how Guided Learning supports students",
-    "发布方": "Google",
-    "日期": "2026-11-09",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/"
-  },
-  {
     "标题": "We’re providing funding for organizations building AI for teachers.",
     "发布方": "Google",
     "日期": "2026-11-09",
@@ -428,6 +445,23 @@
     "链接": "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/"
   },
   {
+    "标题": "New research shows how Guided Learning supports students",
+    "发布方": "Google",
+    "日期": "2026-11-09",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/"
+  },
+  {
     "标题": "Advancing research and partnering with universities in Singapore",
     "发布方": "Google",
     "日期": "2026-11-09",
@@ -460,40 +494,6 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/"
-  },
-  {
-    "标题": "We’ve received our first response from the Project Suncatcher prototype satellite.",
-    "发布方": "Google",
-    "日期": "2026-11-09",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/"
-  },
-  {
-    "标题": "See who has access to your Gmail inbox in 2 minutes.",
-    "发布方": "Google",
-    "日期": "2026-11-09",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/"
   },
   {
     "标题": "FEATURED",
