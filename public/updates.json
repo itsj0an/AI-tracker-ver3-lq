@@ -51,6 +51,23 @@
     "链接": "https://www.anthropic.com/news/features"
   },
   {
+    "标题": "Anthropic launches roadshow for proposed initial public offering",
+    "发布方": "Anthropic",
+    "日期": "2026-11-10",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Anthropic Newsroom",
+    "来源类型": "官方",
+    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "标签": [
+      "Anthropic",
+      "Claude",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
+    "链接": "https://www.anthropic.com/news/roadshow-launch"
+  },
+  {
     "标题": "AI for Science expands to foundations and research institutions",
     "发布方": "Anthropic",
     "日期": "2026-11-10",
@@ -238,21 +255,180 @@
     "链接": "https://www.anthropic.com/news/distillation-defenses"
   },
   {
-    "标题": "Introducing the Anthropic Cyber Mission",
-    "发布方": "Anthropic",
+    "标题": "Gemini Intelligence: New features, on more devices",
+    "发布方": "Google",
     "日期": "2026-11-10",
     "地区": "海外",
     "类型": "模型升级",
-    "来源": "Anthropic Newsroom",
+    "来源": "Google Blog",
     "来源类型": "官方",
-    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
     "标签": [
-      "Anthropic",
-      "Claude",
+      "Google",
+      "AI",
+      "Gemini",
       "模型升级"
     ],
-    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/anthropic-cyber-mission"
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
+  },
+  {
+    "标题": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
+    "发布方": "Google",
+    "日期": "2026-11-10",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/"
+  },
+  {
+    "标题": "Introducing Google Fi’s new super network",
+    "发布方": "Google",
+    "日期": "2026-11-10",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/google-fi-wireless/super-network/"
+  },
+  {
+    "标题": "Gemini 4 Carbon is now available for developers.",
+    "发布方": "Google",
+    "日期": "2026-11-10",
+    "地区": "海外",
+    "类型": "开发者工具",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "开发者工具"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/"
+  },
+  {
+    "标题": "Introducing the Multimodal Knowledge Agent benchmark",
+    "发布方": "Google",
+    "日期": "2026-11-10",
+    "地区": "海外",
+    "类型": "Agent",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Agent"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/"
+  },
+  {
+    "标题": "Gemini 4 Carbon is now available",
+    "发布方": "Google",
+    "日期": "2026-11-10",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+  },
+  {
+    "标题": "Introducing 3 new domains: .eat, .fly, and .here",
+    "发布方": "Google",
+    "日期": "2026-11-10",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/"
+  },
+  {
+    "标题": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+    "发布方": "Google",
+    "日期": "2026-11-10",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
+  },
+  {
+    "标题": "Google Cloud launches Gemini for healthcare.",
+    "发布方": "Google",
+    "日期": "2026-11-10",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
+  },
+  {
+    "标题": "Waze and Garmin team up to boost driver awareness of cyclists.",
+    "发布方": "Google",
+    "日期": "2026-11-10",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/waze/garmin-safety-cyclists/"
   },
   {
     "标题": "Developers can now build with Google Maps Platform in AI Studio.",
@@ -306,24 +482,6 @@
     "链接": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/"
   },
   {
-    "标题": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-    "发布方": "Google",
-    "日期": "2026-11-10",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
-  },
-  {
     "标题": "Transform a quick drawing into a live app with Gemini.",
     "发布方": "Google",
     "日期": "2026-11-10",
@@ -342,7 +500,7 @@
     "链接": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/"
   },
   {
-    "标题": "Check out our free livestream during National Veterans Small Business Week.",
+    "标题": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
     "发布方": "Google",
     "日期": "2026-11-10",
     "地区": "海外",
@@ -357,143 +515,7 @@
       "模型升级"
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/national-veterans-small-business-week-2026/"
-  },
-  {
-    "标题": "We're sharing our framework for building safer and more helpful AI for health.",
-    "发布方": "Google",
-    "日期": "2026-11-10",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/"
-  },
-  {
-    "标题": "Designing responsible AI for learning",
-    "发布方": "Google",
-    "日期": "2026-11-10",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/"
-  },
-  {
-    "标题": "We’re providing funding for organizations building AI for teachers.",
-    "发布方": "Google",
-    "日期": "2026-11-10",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/"
-  },
-  {
-    "标题": "AI in the learning era",
-    "发布方": "Google",
-    "日期": "2026-11-10",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/"
-  },
-  {
-    "标题": "Expanding AI educator training to new countries",
-    "发布方": "Google",
-    "日期": "2026-11-10",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/"
-  },
-  {
-    "标题": "New research shows how Guided Learning supports students",
-    "发布方": "Google",
-    "日期": "2026-11-10",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/"
-  },
-  {
-    "标题": "Advancing research and partnering with universities in Singapore",
-    "发布方": "Google",
-    "日期": "2026-11-10",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/"
-  },
-  {
-    "标题": "The latest AI news we announced in October 2026",
-    "发布方": "Google",
-    "日期": "2026-11-10",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/"
+    "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
   },
   {
     "标题": "FEATURED",
