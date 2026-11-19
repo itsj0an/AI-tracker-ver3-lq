@@ -255,6 +255,164 @@
     "链接": "https://www.anthropic.com/news/singapore-office-opening"
   },
   {
+    "标题": "ICYMI: Transfer your history from other AI apps into Gemini.",
+    "发布方": "Google",
+    "日期": "2026-11-19",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/"
+  },
+  {
+    "标题": "How we’re putting one of quantum mechanics’ deepest features to the test at scale.",
+    "发布方": "Google",
+    "日期": "2026-11-19",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/"
+  },
+  {
+    "标题": "Introducing Tool Retrieval in the Gemini API",
+    "发布方": "Google",
+    "日期": "2026-11-19",
+    "地区": "海外",
+    "类型": "开发者工具",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "开发者工具"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
+  },
+  {
+    "标题": "Walter Isaacson on curiosity and creativity in the AI age.",
+    "发布方": "Google",
+    "日期": "2026-11-19",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/"
+  },
+  {
+    "标题": "Small businesses, big results: How teams scale with AI",
+    "发布方": "Google",
+    "日期": "2026-11-19",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/workspace/google-workspace-gemini-small-business-stories/"
+  },
+  {
+    "标题": "Build strategic A/B tests to grow your ad performance.",
+    "发布方": "Google",
+    "日期": "2026-11-19",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/"
+  },
+  {
+    "标题": "Genie 4 is now available on the Gemini API.",
+    "发布方": "Google",
+    "日期": "2026-11-19",
+    "地区": "海外",
+    "类型": "开发者工具",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "开发者工具"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/"
+  },
+  {
+    "标题": "Let Gemini tackle repetitive chores on your Mac",
+    "发布方": "Google",
+    "日期": "2026-11-19",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/"
+  },
+  {
+    "标题": "We’re partnering with Blue Origin on our first heavy-lift Project Suncatcher launch.",
+    "发布方": "Google",
+    "日期": "2026-11-19",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/"
+  },
+  {
     "标题": "Introducing Gemini 4 Neon",
     "发布方": "Google",
     "日期": "2026-11-19",
@@ -271,23 +429,6 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
-  },
-  {
-    "标题": "Google for Mexico: Technology impact that goes beyond business",
-    "发布方": "Google",
-    "日期": "2026-11-19",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/company-news/inside-google/around-the-globe/google-latin-america/google-for-mexico-2026-november/"
   },
   {
     "标题": "Genie 4 is now available",
@@ -307,7 +448,7 @@
     "链接": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/"
   },
   {
-    "标题": "Introducing Stitch Loop: A new way to build and evolve products",
+    "标题": "Google for Mexico: Technology impact that goes beyond business",
     "发布方": "Google",
     "日期": "2026-11-19",
     "地区": "海外",
@@ -321,7 +462,7 @@
       "模型升级"
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/"
+    "链接": "https://blog.google/company-news/inside-google/around-the-globe/google-latin-america/google-for-mexico-2026-november/"
   },
   {
     "标题": "The Gemini app is now available on lower-memory Android devices.",
@@ -342,7 +483,7 @@
     "链接": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"
   },
   {
-    "标题": "Drive your best ROI reaching new holiday shoppers with November’s Google Marketing Platform Drop.",
+    "标题": "Introducing Stitch Loop: A new way to build and evolve products",
     "发布方": "Google",
     "日期": "2026-11-19",
     "地区": "海外",
@@ -356,146 +497,7 @@
       "模型升级"
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-november/"
-  },
-  {
-    "标题": "How genome mapping can help researchers better understand disease",
-    "发布方": "Google",
-    "日期": "2026-11-19",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/"
-  },
-  {
-    "标题": "See what 5 builders are making with Gemini 4 Carbon",
-    "发布方": "Google",
-    "日期": "2026-11-19",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/gemini/gemini-4-carbon-builders/"
-  },
-  {
-    "标题": "Put Gemini to work for you",
-    "发布方": "Google",
-    "日期": "2026-11-19",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
-  },
-  {
-    "标题": "Read the EmbeddingGemma 2 technical report.",
-    "发布方": "Google",
-    "日期": "2026-11-19",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/"
-  },
-  {
-    "标题": "10 states team up with Google on free AI training",
-    "发布方": "Google",
-    "日期": "2026-11-19",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/ai-training-state-partnerships/"
-  },
-  {
-    "标题": "Temporary threads are now available in AI Mode in Search.",
-    "发布方": "Google",
-    "日期": "2026-11-19",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/"
-  },
-  {
-    "标题": "From easier entry to smarter savings, here’s what’s new in Google Home.",
-    "发布方": "Google",
-    "日期": "2026-11-19",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/devices/google-nest/google-home-updates-november-2026/"
-  },
-  {
-    "标题": "Google Wallet is now available on iOS in the U.S.",
-    "发布方": "Google",
-    "日期": "2026-11-19",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/platforms/google-pay/wallet-available-ios-united-states/"
+    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/"
   },
   {
     "标题": "FEATURED",
