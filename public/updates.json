@@ -1,5 +1,117 @@
 [
   {
+    "标题": "Research",
+    "发布方": "OpenAI",
+    "日期": "2026-11-20",
+    "地区": "海外",
+    "类型": "产品发布",
+    "来源": "OpenAI News",
+    "来源类型": "官方",
+    "一句话摘要": "OpenAI 发布新的产品、功能或公司动态。",
+    "标签": [
+      "OpenAI",
+      "产品发布"
+    ],
+    "追踪价值总结": "适合持续追踪头部 AI 公司在产品发布、功能更新与商业推进上的最新变化。",
+    "链接": "https://openai.com/news/research/"
+  },
+  {
+    "标题": "Engineering",
+    "发布方": "OpenAI",
+    "日期": "2026-11-20",
+    "地区": "海外",
+    "类型": "产品发布",
+    "来源": "OpenAI News",
+    "来源类型": "官方",
+    "一句话摘要": "OpenAI 发布新的产品、功能或公司动态。",
+    "标签": [
+      "OpenAI",
+      "产品发布"
+    ],
+    "追踪价值总结": "适合持续追踪头部 AI 公司在产品发布、功能更新与商业推进上的最新变化。",
+    "链接": "https://openai.com/news/engineering/"
+  },
+  {
+    "标题": "Security",
+    "发布方": "OpenAI",
+    "日期": "2026-11-20",
+    "地区": "海外",
+    "类型": "产品发布",
+    "来源": "OpenAI News",
+    "来源类型": "官方",
+    "一句话摘要": "OpenAI 发布新的产品、功能或公司动态。",
+    "标签": [
+      "OpenAI",
+      "产品发布"
+    ],
+    "追踪价值总结": "适合持续追踪头部 AI 公司在产品发布、功能更新与商业推进上的最新变化。",
+    "链接": "https://openai.com/news/security/"
+  },
+  {
+    "标题": "Intelligence Age",
+    "发布方": "OpenAI",
+    "日期": "2026-11-20",
+    "地区": "海外",
+    "类型": "产品发布",
+    "来源": "OpenAI News",
+    "来源类型": "官方",
+    "一句话摘要": "OpenAI 发布新的产品、功能或公司动态。",
+    "标签": [
+      "OpenAI",
+      "产品发布"
+    ],
+    "追踪价值总结": "适合持续追踪头部 AI 公司在产品发布、功能更新与商业推进上的最新变化。",
+    "链接": "https://openai.com/news/intelligence-age/"
+  },
+  {
+    "标题": "Global Affairs",
+    "发布方": "OpenAI",
+    "日期": "2026-11-20",
+    "地区": "海外",
+    "类型": "产品发布",
+    "来源": "OpenAI News",
+    "来源类型": "官方",
+    "一句话摘要": "OpenAI 发布新的产品、功能或公司动态。",
+    "标签": [
+      "OpenAI",
+      "产品发布"
+    ],
+    "追踪价值总结": "适合持续追踪头部 AI 公司在产品发布、功能更新与商业推进上的最新变化。",
+    "链接": "https://openai.com/news/global-affairs/"
+  },
+  {
+    "标题": "AI Adoption",
+    "发布方": "OpenAI",
+    "日期": "2026-11-20",
+    "地区": "海外",
+    "类型": "产品发布",
+    "来源": "OpenAI News",
+    "来源类型": "官方",
+    "一句话摘要": "OpenAI 发布新的产品、功能或公司动态。",
+    "标签": [
+      "OpenAI",
+      "产品发布"
+    ],
+    "追踪价值总结": "适合持续追踪头部 AI 公司在产品发布、功能更新与商业推进上的最新变化。",
+    "链接": "https://openai.com/news/ai-adoption/"
+  },
+  {
+    "标题": "Applied AI",
+    "发布方": "OpenAI",
+    "日期": "2026-11-20",
+    "地区": "海外",
+    "类型": "产品发布",
+    "来源": "OpenAI News",
+    "来源类型": "官方",
+    "一句话摘要": "OpenAI 发布新的产品、功能或公司动态。",
+    "标签": [
+      "OpenAI",
+      "产品发布"
+    ],
+    "追踪价值总结": "适合持续追踪头部 AI 公司在产品发布、功能更新与商业推进上的最新变化。",
+    "链接": "https://openai.com/news/applied-ai/"
+  },
+  {
     "标题": "Announcements",
     "发布方": "Anthropic",
     "日期": "2026-11-20",
@@ -49,6 +161,23 @@
     ],
     "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
     "链接": "https://www.anthropic.com/news/features"
+  },
+  {
+    "标题": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+    "发布方": "Anthropic",
+    "日期": "2026-11-20",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Anthropic Newsroom",
+    "来源类型": "官方",
+    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "标签": [
+      "Anthropic",
+      "Claude",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
+    "链接": "https://www.anthropic.com/news/ipo-close"
   },
   {
     "标题": "Anthropic prices initial public offering",
@@ -238,21 +367,39 @@
     "链接": "https://www.anthropic.com/news/safeguards"
   },
   {
-    "标题": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-    "发布方": "Anthropic",
+    "标题": "Get your year-end tasks done with new Connected Apps.",
+    "发布方": "Google",
     "日期": "2026-11-20",
     "地区": "海外",
     "类型": "模型升级",
-    "来源": "Anthropic Newsroom",
+    "来源": "Google Blog",
     "来源类型": "官方",
-    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
     "标签": [
-      "Anthropic",
-      "Claude",
+      "Google",
+      "AI",
       "模型升级"
     ],
-    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/singapore-office-opening"
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/search/connected-apps-holiday-errands/"
+  },
+  {
+    "标题": "How Watch Duty is using Gemini to get wildfire alerts out faster",
+    "发布方": "Google",
+    "日期": "2026-11-20",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/company-news/outreach-and-initiatives/google-org/watch-duty-gemini-tool/"
   },
   {
     "标题": "ICYMI: Transfer your history from other AI apps into Gemini.",
@@ -343,23 +490,6 @@
     "链接": "https://blog.google/products-and-platforms/products/workspace/google-workspace-gemini-small-business-stories/"
   },
   {
-    "标题": "Build strategic A/B tests to grow your ad performance.",
-    "发布方": "Google",
-    "日期": "2026-11-20",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/"
-  },
-  {
     "标题": "Genie 4 is now available on the Gemini API.",
     "发布方": "Google",
     "日期": "2026-11-20",
@@ -376,6 +506,23 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/"
+  },
+  {
+    "标题": "Build strategic A/B tests to grow your ad performance.",
+    "发布方": "Google",
+    "日期": "2026-11-20",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/"
   },
   {
     "标题": "Let Gemini tackle repetitive chores on your Mac",
@@ -431,23 +578,6 @@
     "链接": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
   },
   {
-    "标题": "Genie 4 is now available",
-    "发布方": "Google",
-    "日期": "2026-11-20",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/"
-  },
-  {
     "标题": "Google for Mexico: Technology impact that goes beyond business",
     "发布方": "Google",
     "日期": "2026-11-20",
@@ -465,25 +595,7 @@
     "链接": "https://blog.google/company-news/inside-google/around-the-globe/google-latin-america/google-for-mexico-2026-november/"
   },
   {
-    "标题": "The Gemini app is now available on lower-memory Android devices.",
-    "发布方": "Google",
-    "日期": "2026-11-20",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"
-  },
-  {
-    "标题": "Introducing Stitch Loop: A new way to build and evolve products",
+    "标题": "Genie 4 is now available",
     "发布方": "Google",
     "日期": "2026-11-20",
     "地区": "海外",
@@ -497,7 +609,7 @@
       "模型升级"
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/"
+    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/"
   },
   {
     "标题": "FEATURED",
