@@ -367,6 +367,42 @@
     "链接": "https://www.anthropic.com/news/safeguards"
   },
   {
+    "标题": "How Gemini is changing the game for Golden State's organization and fans.",
+    "发布方": "Google",
+    "日期": "2026-11-24",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/"
+  },
+  {
+    "标题": "See what 5 builders are making with Gemini 4 Neon",
+    "发布方": "Google",
+    "日期": "2026-11-24",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini",
+      "模型升级"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-neon-builders/"
+  },
+  {
     "标题": "We’re expanding our London home in King's Cross.",
     "发布方": "Google",
     "日期": "2026-11-24",
@@ -562,24 +598,6 @@
     "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
   },
   {
-    "标题": "Genie 4 is now available on the Gemini API.",
-    "发布方": "Google",
-    "日期": "2026-11-24",
-    "地区": "海外",
-    "类型": "开发者工具",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "开发者工具"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/"
-  },
-  {
     "标题": "Build strategic A/B tests to grow your ad performance.",
     "发布方": "Google",
     "日期": "2026-11-24",
@@ -612,24 +630,6 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/"
-  },
-  {
-    "标题": "Small businesses, big results: How teams scale with AI",
-    "发布方": "Google",
-    "日期": "2026-11-24",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini",
-      "模型升级"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/workspace/google-workspace-gemini-small-business-stories/"
   },
   {
     "标题": "FEATURED",
